@@ -5,7 +5,7 @@
 A. 为什么计算机硬件成本如此之高?
 B. 为什么软件要很长时间才能开发完成?
 C. 为什么开发软件的一小块内容也要花费巨大?
-D. 在软件发布之前为什么软件错误不能从产品中统统剔除?
+D. 在软件交付之前为什么软件错误不能从产品中统统剔除?
 
 软件通常是变化而不是磨损的原因是__. @[C](1)
 
@@ -72,7 +72,7 @@ C. 最适用于大开发团队项目.
 D. 一种有风险的模型，很少用于有意义的产品.
 
 软件开发的螺旋模型 __. @[C](1)
-A. 以软件产品的发布作为终结.
+A. 以软件产品的交付作为终结.
 B. 比增量模型更无序.
 C. 在每一次迭代时都需要项目风险评估.
 D. 是发布系统5个版本.
@@ -104,7 +104,7 @@ D. 验证阶段
 下面哪一项不是个人软件过程的特性? @[B](1)
 A. 强调工作产品的个人测量.
 B. 项目经理需要仔细的监督从业者.
-C. 个体从业者需要自己负责估算和调度.
+C. 个体从业者需要自己负责估算和计划.
 D. 从业者需要授权控制软件工作产品的质量.
 
 下面哪项是团队软件过程的目标? *@[BC](2)
@@ -155,89 +155,89 @@ B. 极其诚实
 C. 教条性的遵守过程规则
 D. 足够的抗压性
 
-Which of the following can contribute to team toxicity? *@[ABD](2)
-A. Frenzied work atmosphere
-B. Inadequate budget
-C. Poorly coordinated software process
-D. Unclear definition of team roles
+以下哪一项会导致团队毒性? *@[ABD](2)
+A. 疯狂的工作氛围
+B. 预算不足
+C. 软件过程协调不良
+D. 团队角色的定义不明确
 
-Which of these factors complicate decision-making by global software teams? *@[ABCD](2)
-A. Complexity of problem
-B. Different views of the problem
-C. Law of unintended consequences
-D. Risk associated with decision
+以下哪些因素会使整体软件团队的决策复杂化? *@[ABCD](2)
+A. 问题复杂性
+B. 问题的不同视角
+C. 非预期后果法则
+D. 与决策相关的风险
 
 
 软件工程实践的指导原则
 
-Which of the following is not one of core principles of software engineering practice? @[C](1)
-A. All design should be as simple as possible, but no simpler.
-B. A software system exists only to provide value to its users.
-C. Pareto principle (20% of any product requires 80% of the effort).
-D. Remember that you produce others will consume
+以下哪一项不是软件工程实践的核心原则? @[C](1)
+A. 所有设计都应该尽可能简单，但不是更简单.
+B. 软件系统的存在只是为了向其用户提供价值.
+C. 帕雷托原则（产品中20%的功能需要使用80%的工作量完成）.
+D. 记住：你生产，别人消费。
 
-One reason to involve everyone on the software team in the planning activity is to __.  @[C](1)
-A. adjust the granularity of the plan
-B. control feature creep
-C. get all team members to "sign up" to the plan
-D. understand the problem scope
+让软件团队中的每个人都参与到计划活动的原因是 __.  @[C](1)
+A. 调整计划的粒度
+B. 控制功能蠕变
+C. 让所有团队成员在计划中"注册"进来
+D. 了解问题范围
 
-Requirements models depict software in which three domains? @[C](1)
-A. architecture, interface, component
-B. cost, risk, schedule
-C. information, function, behavior
-D. function, interface, schedule
+需求模型在哪三个领域描绘软件? @[C](1)
+A. 架构，接口，组件
+B. 成本，风险，计划
+C. 信息，功能，行为
+D. 功能，接口，计划
 
-Which of the following is not one of the principles of good coding? @[C](1)
-A. Create unit tests before you begin coding
-B. Refactor the code after you complete the first coding pass
-C. Keep the variable names as simple as possible
-D. Write self-documenting code, not program documentation
+以下哪一项不是良好编码的原则? @[C](1)
+A. 在开始编码前创建单元测试
+B. 完成第一次编码后重构代码
+C. 使变量名称尽可能简单
+D. 编写自记录代码，而不是程序文档
 
-Which of the following are valid reasons for collecting customer feedback concerning delivered software? *@[ABC](2)
-A. Allows developers to make changes to the delivered increment
-B. Delivery schedule can be revised to reflect changes
-C. Developers can identify changes to incorporate into next increment
-D. Allows managers to know the customers better
+以下哪一项是收集客户反馈的有关交付软件的有效理由? *@[ABC](2)
+A. 允许开发人员对交付的增量进行更改
+B. 可以修订交付计划以反映更改
+C. 开发人员可以标识要合并到下一个增量的更改
+D. 让经理更好地了解客户
 
 
 需求的导出与理解
 
-During project inception the intent of the tasks are to determine __. *@[ABC](2)
-A. basic problem understanding
-B. nature of the solution needed
-C. people who want a solution
-D. business goals
+在项目启动期间，任务的意图是确定 __. *@[ABC](2)
+A. 基本问题的理解
+B. 所需解决方案的性质
+C. 需要解决方案的人
+D. 业务目标
 
-Three things that make requirements elicitation difficult are problems of __. *@[BCD](2)
-A. budgeting
-B. scope
-C. understanding
-D. volatility
+使需求获取变得困难的三件事是 __. *@[BCD](2)
+A. 预算
+B. 范围
+C. 理解
+D. 易变性
 
-Which of the following is not one of the context-free questions that would be used during project inception? @[C](1)
-A. What will be the economic benefit from a good solution?
-B. Who is behind the request for work?
-C. Who will pay for the work?
-D. Who will use the solution?
+以下哪一项不是项目启动期间将使用的上下文无关的问题? @[C](1)
+A. 一个好的解决方案将带来何种经济利益?
+B. 谁在工作请求的后面？
+C. 谁为工作买单?
+D. 谁将使用解决方案?
 
-In collaborative requirements gathering the facilitator __. @[C](1)
-A. arranges the meeting place
-B. can not be a customer
-C. controls the meeting
-D. must be an outsider
+在协作需求中，召集主持人 __. @[C](1)
+A. 安排会议地点
+B. 不会是客户
+C. 掌控会议
+D. 必须是局外人
 
-Which of the following is not one of the requirement classifications used in Quality Function Deployment (QFD)? @[C](1)
-A. exciting
-B. expected
-C. mandatory
-D. normal
+以下哪一项不是质量功能部署(QFD)中使用的需求分类? @[C](1)
+A. 使人兴奋的
+B. 可期待的
+C. 强制的
+D. 普通的
 
-The work products produced during requirement elicitation will vary depending on the __. *@[AB](2)
-A. size of the budget.
-B. size of the product being built.
-C. software process being used.
-D. stakeholders needs.
+需求获取期间生产的工作产品将因以下哪些因素而变化 __. *@[AB](2)
+A. 预算规模.
+B. 待建产品的规模.
+C. 正在使用的软件过程.
+D. 利益相关者的需求.
 
 The result of the requirements engineering task is an analysis model that defines which of the following problem domain(s)? *@[ABC](2)
 A. information
