@@ -1,0 +1,1724 @@
+软件的特性
+
+Which question no longer concerns the modern software engineer? @[A](1)
+
+A. Why does computer hardware cost so much?
+B. Why does software take a long time to finish?
+C. Why does it cost so much to develop a piece of software?
+D. Why can't software errors be removed from products prior to delivery?
+
+Software deteriorates rather than wears out because __. @[C](1)
+
+A. Software suffers from exposure to hostile environments
+B. Defects are more likely to arise after software has been used often
+C. Multiple change requests introduce errors in component interactions
+D. Software spare parts become harder to order
+
+
+软件工程基本概念
+
+Which of the items listed below is not one of the software engineering layers?   @[B](1)
+A. Process
+B. Manufacturing
+C. Methods
+D. Tools
+
+Which of these are the 5 generic software engineering framework activities? @[A](1)
+A. communication, planning, modeling, construction, deployment
+B. communication, risk management, measurement, production, reviewing
+C. analysis, designing, programming, debugging, maintenance
+D. analysis, planning, designing, programming, testing
+
+
+综述
+
+Which of the following are recognized process flow types? *@[AC](2)
+A. Concurrent process flow
+B. Iterative process flow
+C. Linear process flow
+D. Spiral process flow
+
+Which of these are standards for assessing software processes? *@[BD](2)
+A. SEI
+B. SPICE
+C. ISO 9000
+D. ISO 9001
+
+
+过程模型
+
+The waterfall model of software development is __. @[A](1)
+A. A reasonable approach when requirements are well defined.
+B. A good approach when a working program is required quickly.
+C. The best approach to use for projects with large development teams.
+D. An old fashioned model that is rarely used any more.
+
+The incremental model of software development is __. @[B](1)
+A. A reasonable approach when requirements are well defined.
+B. A good approach when a working core product is required quickly.
+C. The best approach to use for projects with large development teams.
+D. A revolutionary model that is not used for commercial products.
+
+Evolutionary software process models __. *@[ABC](2)
+A. Are iterative in nature.
+B. Can easily accommodate product requirements changes.
+C. Do not generally produce throwaway systems.
+D. Work the best when requirements are well defined. 
+
+The prototyping model of software development is __. @[B](1)
+A. A reasonable approach when requirements are well defined.
+B. A useful approach when a customer cannot define requirements clearly.
+C.  The best approach to use for projects with large development teams.
+D. A risky model that rarely produces a meaningful product.
+
+The spiral model of software development __. @[C](1)
+A. Ends with the delivery of the software product.
+B. Is more chaotic than the incremental model.
+C. Includes project risks evaluation during each iteration.
+D. Releases five versions of the system.
+
+The concurrent development model is __. *@[AB](2)
+A. Another name for concurrent engineering.
+B. Defines events that trigger engineering activity state transitions.
+C. Only used for development of parallel or distributed systems.
+D. Used whenever a large number of change requests are anticipated.
+
+The component-based development model is __. @[C](1)
+A. Only appropriate for computer hardware design.
+B. Not able to support the development of reusable components.
+C. Dependent on object technologies for support.
+D. Not cost effective by known quantifiable software metrics.
+
+The formal methods model of software development makes use of mathematical methods to __. *@[ABC](2)
+A. Define the specification for computer-based systems.
+B. Develop defect free computer-based systems.
+C. Verify the correctness of computer-based systems.
+D. Communicate with customers.
+
+Which of these is not one of the phase names defined by the Unified Process model for software development? @[D](1)
+A. Inception phase
+B. Elaboration phase
+C. Construction phase
+D. Validation phase
+
+Which of these is not a characteristic of Personal Software Process? @[B](1)
+A. Emphasizes personal measurement of work product.
+B. Practitioner requires careful supervision by the project manager.
+C. Individual practitioner is responsible for estimating and scheduling.
+D. Practitioner is empowered to control quality of software work products.
+
+Which of these are objectives of Team Software Process? *@[BC](2)
+A. Accelerate software process improvement.
+B. Allow better time management by highly trained professionals.
+C. Build self-directed software teams.
+D. Show managers how to reduce costs and sustain quality.
+
+
+敏捷视角下的过程
+
+Which of the following is not necessary to apply agility to a software process? @[A](1)
+A. Eliminate the use of project planning and testing
+B. Only essential work products are produced
+C. Process allows team to streamline tasks
+D. Uses incremental product delivery strategy
+
+How do you create agile processes to manage unpredictability? *@[CD](2)
+A. Requirements gathering must be conducted very carefully
+B. Risk analysis must be conducted before planning takes place
+C. Software increments must be delivered in short time periods
+D. Software processes must adapt to changes incrementally
+
+What are the four framework activities found in the Extreme Programming (XP) process model? @[D](1)
+A. analysis, design, coding, testing
+B. planning, analysis, design, coding
+C. planning, analysis, coding, testing
+D. planning, design, coding, testing
+
+Which is not one of the key questions that is answered by each team member at each daily Scrum meeting? @[C](1)
+A. What did you do since the last meeting?
+B. What obstacles are you encountering?
+C. What kind of feedback have you received from your customers?
+D. What do you plan to accomplish by the next team meeting?
+
+Agile Modeling (AM) provides guidance to practitioner during which of these software tasks? *@[AB](2)
+A. Analysis
+B. Design
+C. Coding
+D. Testing
+
+
+人力资源视角下的过程
+
+Which of the following is not an important trait of an effective software engineer? @[C](1)
+A. Attentive to detail
+B. Brutally honest
+C. Follows process rule dogmatically
+D. Resilient under pressure
+
+Which of the following can contribute to team toxicity? *@[ABD](2)
+A. Frenzied work atmosphere
+B. Inadequate budget
+C. Poorly coordinated software process
+D. Unclear definition of team roles
+
+Which of these factors complicate decision-making by global software teams? *@[ABCD](2)
+A. Complexity of problem
+B. Different views of the problem
+C. Law of unintended consequences
+D. Risk associated with decision
+
+
+软件工程实践的指导原则
+
+Which of the following is not one of core principles of software engineering practice? @[C](1)
+A. All design should be as simple as possible, but no simpler.
+B. A software system exists only to provide value to its users.
+C. Pareto principle (20% of any product requires 80% of the effort).
+D. Remember that you produce others will consume
+
+One reason to involve everyone on the software team in the planning activity is to __.  @[C](1)
+A. adjust the granularity of the plan
+B. control feature creep
+C. get all team members to "sign up" to the plan
+D. understand the problem scope
+
+Requirements models depict software in which three domains? @[C](1)
+A. architecture, interface, component
+B. cost, risk, schedule
+C. information, function, behavior
+D. function, interface, schedule
+
+Which of the following is not one of the principles of good coding? @[C](1)
+A. Create unit tests before you begin coding
+B. Refactor the code after you complete the first coding pass
+C. Keep the variable names as simple as possible
+D. Write self-documenting code, not program documentation
+
+Which of the following are valid reasons for collecting customer feedback concerning delivered software? *@[ABC](2)
+A. Allows developers to make changes to the delivered increment
+B. Delivery schedule can be revised to reflect changes
+C. Developers can identify changes to incorporate into next increment
+D. Allows managers to know the customers better
+
+
+需求的导出与理解
+
+During project inception the intent of the tasks are to determine __. *@[ABC](2)
+A. basic problem understanding
+B. nature of the solution needed
+C. people who want a solution
+D. business goals
+
+Three things that make requirements elicitation difficult are problems of __. *@[BCD](2)
+A. budgeting
+B. scope
+C. understanding
+D. volatility
+
+Which of the following is not one of the context-free questions that would be used during project inception? @[C](1)
+A. What will be the economic benefit from a good solution?
+B. Who is behind the request for work?
+C. Who will pay for the work?
+D. Who will use the solution?
+
+In collaborative requirements gathering the facilitator __. @[C](1)
+A. arranges the meeting place
+B. can not be a customer
+C. controls the meeting
+D. must be an outsider
+
+Which of the following is not one of the requirement classifications used in Quality Function Deployment (QFD)? @[C](1)
+A. exciting
+B. expected
+C. mandatory
+D. normal
+
+The work products produced during requirement elicitation will vary depending on the __. *@[AB](2)
+A. size of the budget.
+B. size of the product being built.
+C. software process being used.
+D. stakeholders needs.
+
+The result of the requirements engineering task is an analysis model that defines which of the following problem domain(s)? *@[ABC](2)
+A. information
+B. functional
+C. behavioral
+D. quality control procedure
+
+
+需求模型的构建
+
+Which of these is not an element of a requirements model? @[C](1)
+A. Behavioral elements
+B. Class-based elements
+C. Data elements
+D. Scenario-based elements
+
+Which of the following is not an objective for building a requirements model? @[C](1)
+A. define set of software requirements that can be validated
+B. describe customer requirements
+C. develop an abbreviated solution for the problem
+D. establish basis for software design
+
+Which of the following should be considered as candidate objects in a problem space? *@[ABC](2)
+A. events
+B. people
+C. structures
+D. actions
+
+Which of the following is not one of the broad categories used to classify operations? @[D](1)
+A. computation
+B. data manipulation
+C. event monitors
+D. transformers
+
+Which of the following items does not appear on a CRC card? @[C](1)
+A. class collaborators
+B. class name
+C. class reliability
+D. class responsibilities
+
+Class responsibilities are defined by __. @[D](1)
+A. its attributes only
+B. its collaborators
+C. its operations only
+D. both its attributes and operations
+
+For purposes of behavior modeling an event occurs whenever __. @[B](1)
+A. a state and process exchange information.
+B. the system and an actor exchange information.
+C. two actors exchange information.
+D. two objects exchange information.
+
+For purposes of behavior modeling a state is any __. @[C](1)
+A. consumer or producer of data.
+B. data object hierarchy.
+C. observable mode of behavior.
+D. well defined process.
+
+The state transition diagram __. @[D](1)
+A. depicts relationships between data objects
+B. depicts functions that transform the data flow
+C. indicates how data are transformed by the system
+D. indicates system reactions to external events
+
+Which is not one of the analysis activities that is used to create a complete analysis model? @[D](1)
+A. Configuration analysis
+B. Content analysis
+C. Functional analysis
+D. Market analysis
+
+What are the elements of a WebApp interaction model? @[C](1)
+A. activity diagrams, sequence diagrams, state diagrams, interface prototype
+B. activity diagrams, collaboration diagrams, sequence diagrams, state diagrams
+C. use-cases, sequence diagrams, state diagrams, interface prototype
+D. use-cases, sequence diagrams, state diagrams, sequence diagrams
+
+
+设计的概念
+
+Which of the following are areas of concern in the design model? *@[ABC](2)
+A. architecture
+B. data
+C. interfaces
+D. project scope
+
+The importance of software design can be summarized in a single word: __. @[D](1)
+A. accuracy
+B. complexity
+C. efficiency
+D. quality
+
+Which of these are characteristics of a good design? *@[BD](2)
+A. exhibits strong coupling between its modules
+B. implements all requirements in the analysis model
+C. includes test cases for all components
+D. provides a complete picture of the software
+
+Which of the following is not a characteristic common to all design methods? @[A](1)
+A. configuration management
+B. functional component representation
+C. quality assessment guidelines
+D. refinement heuristics
+
+What types of abstraction are used in software design? *@[ABD](2)
+A. control
+B. data
+C. environmental
+D. procedural
+
+Which of the following can be used to represent the architectural design of a piece of software? *@[ABC](2)
+A. Dynamic models
+B. Functional models
+C. Structural models
+D. Interaction models
+
+Cohesion is a qualitative indication of the degree to which a module __. @[B](1)
+A. can be written more compactly
+B. focuses on just one thing
+C. is able to complete its function in a timely manner
+D. is connected to other modules and the outside world
+
+Coupling is a qualitative indication of the degree to which a module __. @[D](1)
+A. can be written more compactly
+B. focuses on just one thing
+C. is able to complete its function in a timely manner
+D. is connected to other modules and the outside world
+
+Which of the following is not one of the five design class types? @[B](1)
+A. Business domain classes
+B. Entity classes
+C. Process classes
+D. User interface classes
+
+Which design model elements are used to depict a model of information represented from the user's view? @[C](1)
+A. Architectural design elements
+B. Component-level design elements
+C. Data design elements
+D. Interface design elements
+
+Which design is equivalent to the floor plan of a house? @[A](1)
+A. Architectural design
+B. Component-level design
+C. Data design
+D. Interface design
+
+Which design model is equivalent to the detailed drawings of the access points and external utilities for a house? @[D](1)
+A. Architectural design
+B. Component-level design
+C. Data design
+D. Interface design
+
+Which design model is equivalent to a set of detailed drawings for each room in a house? @[B](1)
+A. Architectural design
+B. Component-level design
+C. Data design
+D. Interface design
+
+
+体系结构设计
+
+An architectural style encompasses which of the following elements? *@[ABC](2)
+A. constraints
+B. set of components
+C. semantic models
+D. syntactic models
+
+To determine the architectural style or combination of styles that best fits the proposed system, requirements engineering is used to uncover __.  @[B](1)
+A. algorithmic complexity
+B. characteristics and constraints
+C. control and data
+D. design patterns
+
+The criteria used to assess the quality of an architectural design should be based on system __. *@[BC](2)
+A. accessibility
+B. control
+C. data
+D. implementation
+
+During process of modeling the system in context, systems that interact with the target system are represented as __.  *@[ABC](2)
+A. Peer-level systems
+B. Subordinate systems
+C. Superordinate systems
+D. Working systems
+
+Which of the following is not an example of infrastructure components that may need to be integrated into the software architecture? @[C](1)
+A. Communications components
+B. Database components
+C. Interface components
+D. Memory management components
+
+In the architecture trade-off analysis method the architectural style should be described using the __. *@[ABC](2)
+A. data flow view
+B. module view
+C. process view
+D. user view
+
+A useful technique for evaluating the overall complexity of a proposed architecture is to look at the component __. *@[BC](2)
+A. cohesion
+B. flow dependencies
+C. sharing dependencies
+D. size
+
+
+构件级设计
+
+In the context of object-oriented software engineering a component contains __. @[D](1)
+A. attributes and operations
+B. instances of each class
+C. roles for each actor (device or user)
+D. set of collaborating classes
+
+In traditional software engineering modules must serve in which of the following roles? *@[ABC](2)
+A. Control component
+B. Infrastructure component
+C. Problem domain component
+D. Communication component
+
+Which of the following is not one of the four principles used to guide component-level design? @[D](1)
+A. Dependency Inversion Principle
+B. Interface Segregation Principle
+C. Open-Closed Principle
+D. Parsimonious Complexity Principle
+
+In component design elaboration requires which of the following elements to be describe in detail? *@[BCD](2)
+A. Algorithms
+B. Attributes
+C. Interfaces
+D. Operations
+
+In component-level design persistent data sources refer to __. *@[BC](2)
+A. Component libraries
+B. Databases
+C. Files
+D. API's
+
+Which of these constructs is used in structured programming? *@[BCD](2)
+A. branching
+B. condition
+C. repetition
+D. sequence
+
+Which of the following is not one of the major activities of domain engineering? @[D](1)
+A. analysis
+B. construction
+C. dissemination
+D. validation
+
+Which of the following factors would not be considered during component qualification? @[D](1)
+A. application programming interface (API)
+B. development and integration tools required
+C. exception handling
+D. testing equipment required
+
+Which of the following is not a technique used for component wrapping? @[B](1)
+A. black-box wrapping
+B. clear-box wrapping
+C. gray-box wrapping
+D. white-box wrapping
+
+Which of the following is not one of the issues that form a basis for design for reuse? @[A](1)
+A. object-oriented programming
+B. program templates
+C. standard data
+D. standard interface protocols
+
+In a reuse environment, library queries are often characterized using the __ element of the 3C Model. *@[ABC](2)
+A. concept
+B. content
+C. context
+D. class
+
+
+用户界面设计
+
+Which of the following interface design principles does not allow the user to remain in control of the interaction with a computer? @[D](1)
+A. allow interaction to interruptible
+B. allow interaction to be undoable
+C. hide technical internals from casual users
+D. only provide one rigidly defined method for accomplishing a task
+
+Which of the following interface design principles reduce the user's memory load? *@[ABC](2)
+A. define intuitive shortcuts
+B. disclose information in a progressive fashion
+C. establish meaningful defaults
+D. provide an on-line tutorial
+
+Interface consistency implies that __. *@[BD](2)
+A. each application should have its own distinctive look and feel
+B. input mechanisms remain the same throughout the application
+C. navigational methods are context sensitive
+D. visual information is organized according to a design standard
+
+Which model depicts the profile of the end users of a computer system?  @[C](1)
+A. design model
+B. implementation model
+C. user model
+D. user's model
+
+Which model depicts the image of a system that an end user creates in his or her head? @[D](1)
+A. design model
+B. user model
+C. system model
+D. system perception
+
+Which model depicts the look and feel of the user interface along with all supporting information? @[A](1)
+A. implementation model
+B. user model
+C. user's model
+D. system perception
+
+Which of these framework activities is not normally associated with the user interface design processes? @[A](1)
+A. cost estimation
+B. interface construction
+C. interface validation
+D. user and task analysis
+
+Which approach(es) to user task analysis can be useful in user interface design? *@[CD](2)
+A. have users indicate their preferences on questionnaires
+B. rely on the judgement of experienced programmers
+C. study existing computer-based solutions
+D. observe users performing tasks manually
+
+Several common design issues surface for almost every user interface including __.  *@[BD](2)
+A. adaptive user profiles
+B. error handling
+C. resolution of graphics displays
+D. system response time
+
+Several usability measures can be collected while observing users interacting with a computer system including __. *@[BD](2)
+A. down time for the application
+B. number of user errors
+C. software reliability
+D. time spent looking at help materials
+
+
+基于模式的设计
+
+Which of the following is not one of the elements of a design pattern? @[B](1)
+A. context
+B. environment
+C. problem
+D. solution
+
+A pattern language __. @[A](1)
+A. encompasses a collection of patterns
+B. is implemented using hypertext
+C. resembles the structure of natural languages
+D. resembles the structure of programming languages
+
+The concepts and techniques discussed for __ can be used in the conjunction with a pattern-based approach. @[D](1)
+A. Architectural design
+B. Component-level design
+C. User interface design
+D. All of the other three options
+
+Which of the following problem types are used to label columns in a pattern organizing table? *@[CD](2)
+A. Business
+B. Context
+C. Database
+D. Infrastructure
+
+Most user interface design patterns fall with in one of __ categories of patterns. @[B](1)
+A. 5
+B. 10
+C. 25
+D. 100
+
+WebApp design patterns can be classified by considering which of the dimensions listed below? *@[BC](2)
+A. Aesthetics
+B. Design focus
+C. Granularity
+D. Usability
+
+Which of the following are levels of design focus that can be used to categorize WebApp patterns? *@[BD](2)
+A. Behavioral patterns
+B. Functional patterns
+C. Layout patterns
+D. Navigation patterns
+
+Which of the levels of granularity that can be used to describe WebApp patterns? *@[ABC](2)
+A. Architectural patterns
+B. Component patterns
+C. Design patterns
+D. Interactions patterns
+
+
+Web应用设计
+
+Which of the following characteristics should not be used to assess the quality of a WebApp? @[A](1)
+A. aesthetics
+B. reliability
+C. maintainability
+D. usability
+
+Which of the following are design goals for every WebApp? *@[ABCD](2)
+A. Simplicity
+B. Consistency
+C. Navigability
+D. Visual appeal
+
+Which of the following is not part of the design pyramid for WebApp design? @[B](1)
+A. Architectural design
+B. Business case design
+C. Content design
+D. Navigation design
+
+Which of these are WebApp interaction mechanisms? *@[ABC](2)
+A. Graphic icons
+B. Graphic images
+C. Navigation menus
+D. Scrolling bars
+
+Content design is conducted by __. *@[AB](2)
+A. Copywriters and graphic designer
+B. Web engineers
+C. Product managers
+D. None of the other three options
+
+Which of the following is not one of the content architectural structures used by web engineers? @[D](1)
+A. linear
+B. grid
+C. hierarchical
+D. parallel
+
+MVC is a three layer architecture that contains a __.  @[C](1)
+A. machine, view, content objects
+B. model, view, and content objects
+C. model, view, and controller
+D. machine, view, controller
+
+Which of these is not one of the design activities associated with object-oriented hypermedia design? @[C](1)
+A. abstract interface design
+B. conceptual design
+C. content design
+D. navigational design
+
+
+移动应用设计
+
+Which of the following characteristics should not be used to assess the quality of a MobileApp? @[A](1)
+A. aesthetics
+B. reliability
+C. maintainability
+D. usability
+
+Which of the following are common MobileApp design mistakes.  *@[AB](2)
+A. Inconsistency
+B. Interoperability
+C. Lean design
+D. Overdesigning
+
+
+UML介绍
+
+UML activity diagrams are useful in representing which analysis model elements? @[D](1)
+A. Behavioral elements
+B. Class-based elements
+C. Flow-based elements
+D. Scenario-based elements
+
+软件质量的基本概念
+
+Which of the following is not one of the attributes of software quality? @[C](1)
+A. Adds value for developers and users
+B. Effective software process creates infrastructure
+C. Removes need to consider performance issues
+D. Useful products satisfy stakeholder requirements
+
+Which of the following are ISO 9126 software quality factors? *@[ABC](2)
+A. Functionality
+B. Portability
+C. Reliability
+D. Visual appeal
+
+Which of the following is likely to be the most expensive cost of quality? @[B](1)
+A. Appraisal costs
+B. External failure costs
+C. Internal failure costs
+D. Prevention costs
+
+Which of the following management decisions have the potential to impact software quality? *@[ABC](2)
+A. Estimation decisions
+B. Risk-oriented decisions
+C. Scheduling decisions
+D. Reengineering decisions
+
+The project plan should include explicit techniques for __ and __ management. *@[AD](2)
+A. change
+B. cost
+C. error
+D. quality
+
+
+软件评审技术
+
+The level of review formality is determined by which of the following? *@[ABD](2)
+A. amount of preparation
+B. reviewer follow-up
+C. size of project budget
+D. structure of review
+
+An informal review may consist of which of the following? *@[AB](2)
+A. casual meeting
+B. desk check
+C. inspection
+D. pair programming
+
+Which of the following are objectives for formal technical reviews? @[D](1)
+A. allow senior staff members to correct errors
+B. assess programmer productivity
+C. determining who introduced an error into a program
+D. uncover errors in software work products
+
+At the end of a formal technical review all attendees can decide to __. *@[AD](2)
+A. accept the work product without modification
+B. modify the work product and continue the review
+C. reject the product due to stylistic discrepancies
+D. reject the product due to severe errors
+
+A review summary report answers which three questions? @[C](1)
+A. terminate project, replace producer, request a time extension
+B. what defects were found, what caused defects, who was responsible
+C. what was reviewed, who reviewed it, what were the findings
+D. none of the other three options
+
+
+软件质量保证
+
+Which of these activities is not one of the activities recommended to be performed by an independent SQA group? @[D](1)
+A. prepare SQA plan for the project
+B. review software engineering activities to verify process compliance
+C. report any evidence of noncompliance to senior management
+D. serve as the sole test team for any software produced
+
+Statistical quality assurance involves __. @[C](1)
+A. using sampling in place of exhaustive testing of software
+B. surveying customers to find out their opinions about product quality
+C. tracing each defect to its underlying cause, isolating the "vital few" causes, and moving to correct them
+D. tracing each defect to its underlying causes and using the Pareto principle to correct each problem found
+
+Six Sigma methodology defines three core steps: __. @[C](1)
+A. analyze, improve, control
+B. analyze, design, verify
+C. define, measure, analyze
+D. define, measure, control
+
+Software reliability problems can almost always be traced to __. *@[BC](2)
+A. errors in accuracy
+B. errors in design
+C. errors in implementation
+D. errors in operation
+
+Software safety is a quality assurance activity that focuses on hazards that __. @[B](1)
+A. affect the reliability of a software component
+B. may cause an entire system to fail
+C. may result from user input errors
+D. prevent profitable marketing of the final product
+
+The ISO quality assurance standard that applies to software engineering is __. @[B](1)
+A. ISO 9000
+B. ISO 9001
+C. ISO 9002
+D. ISO 9003
+
+Which of the following is not a section in the standard for SQA plans recommended by IEEE? @[A](1)
+A. budget
+B. documentation
+C. reviews and audits
+D. test
+
+
+软件测试策略
+
+The best reason for using Independent software test teams is that __. @[D](1)
+A. software developers do not need to do any testing
+B. strangers will test the software mercilessly
+C. testers do not get involved with the project until testing begins
+D. the conflicts of interest between developers and testers is reduced
+
+What is the normal order of activities in which traditional software testing is organized? @[C](1)
+A. integration testing, system testing, unit testing, validation testing.
+B. unit testing, validation testing, system testing, integration testing
+C. unit testing, integration testing, validation testing, system testing
+D. validation testing, system testing, integration testing, unit testing
+
+Which of the following strategic issues needs to be addressed in a successful software testing process? *@[AB](2)
+A. conduct formal technical reviews prior to testing
+B. specify requirements in a quantifiable manner
+C. use independent test teams
+D. wait till code is written prior to writing the test plan
+
+Which of the following need to be assessed during unit testing? *@[CD](2)
+A. algorithmic performance
+B. code stability
+C. error handling
+D. execution paths
+
+Top-down integration testing has as it's major advantage(s) that __. *@[BC](2)
+A. low level modules never need testing
+B. major decision points are tested early
+C. no drivers need to be written
+D. no stubs need to be written
+
+Bottom-up integration testing has as it's major advantage(s) that __. @[C](1)
+A. major decision points are tested early
+B. no drivers need to be written
+C. no stubs need to be written
+D. regression testing is not required
+
+Regression testing should be a normal part of integration testing because as a new module is added to the system new __. *@[AB](2)
+A. control logic is invoked
+B. data flow paths are established
+C. drivers require testing
+D. stubs require testing
+
+Smoke testing might best be described as __. @[B](1)
+A. bulletproofing shrink-wrapped software
+B. rolling integration testing
+C. testing that hides implementation errors
+D. unit testing for small programs
+
+The object-oriented testing integration strategy involves testing __. @[A](1)
+A. groups of classes that collaborate or communicate in some way
+B. single operations as they are added to the evolving class implementation
+C. operator programs derived from use-case scenarios
+D. none of the other three options
+
+Acceptance tests are normally conducted by the __. @[B](1)
+A. developer
+B. end users
+C. test team
+D. systems engineers
+
+Which of the following is not an approach to debugging? @[D](1)
+A. backtracking
+B. brute force
+C. cause elimination
+D. code restructuring
+
+
+传统应用软件的测试
+
+Which of the following are characteristics of testable software? *@[ABC](2)
+A. observability
+B. simplicity
+C. stability
+D. efficiency
+
+The testing technique that requires devising test cases to demonstrate that each program function is operational is called __. @[A](1)
+A. black-box testing
+B. glass-box testing
+C. grey-box testing
+D. white-box testing
+
+The testing technique that requires devising test cases to exercise the internal logic of a software module is called __. @[D](1)
+A. behavioral testing
+B. black-box testing
+C. grey-box testing
+D. white-box testing
+
+What types of errors are missed by black-box testing and can be uncovered by white-box testing? *@[BD](2)
+A. behavioral errors
+B. logic errors
+C. performance errors
+D. typographical errors
+
+The cyclomatic complexity metric provides the designer with information regarding the number of __. @[C](1)
+A. cycles in the program
+B. errors in the program
+C. independent logic paths in the program
+D. statements in the program
+
+Condition testing is a control structure testing technique where the criteria used to design test cases is that they __. @[B](1)
+A. rely on basis path testing
+B. exercise the logical conditions in a program module
+C. select test paths based on the locations and uses of variables
+D. focus on testing the validity of loop constructs
+
+Data flow testing is a control structure testing technique where the criteria used to design test cases is that they __. @[C](1)
+A. rely on basis path testing
+B. exercise the logical conditions in a program module
+C. select test paths based on the locations and uses of variables
+D. focus on testing the validity of loop constructs
+
+Loop testing is a control structure testing technique where the criteria used to design test cases is that they __. @[D](1)
+A. rely basis path testing
+B. exercise the logical conditions in a program module
+C. select test paths based on the locations and uses of variables
+D. focus on testing the validity of loop constructs
+
+Black-box testing attempts to find errors in which of the following categories?  *@[ABC](2)
+A. incorrect or missing functions
+B. interface errors
+C. performance errors
+D. none of the other three options
+
+Test derived from behavioral class models should be based on the __. @[C](1)
+A. data flow diagram
+B. object-relation diagram
+C. state transition diagram
+D. use-case diagram
+
+Real-time applications add a new and potentially difficult element to the testing mix -- __. @[D](1)
+A. performance
+B. reliability
+C. security
+D. time
+
+
+面向对象应用软件的测试
+
+Integration testing of object-oriented software can be accomplished by which of the following testing strategies? *@[ACD](2)
+A. Cluster testing
+B. Glass-box testing
+C. Thread-based testing
+D. Use-based testing
+
+Fault-based testing is best reserved for __. @[B](1)
+A. conventional software testing
+B. operations and classes that are critical or suspect
+C. use-case validation
+D. white-box testing of operator algorithms
+
+Scenario-based testing __. @[A](1)
+A. concentrates on actor and software interaction
+B. misses errors in specifications
+C. misses errors in subsystem interactions
+D. concentrates on what the product does
+
+Which of these techniques is not useful for partition testing at the class level __. @[C](1)
+A. attribute-based partitioning
+B. category-based partitioning
+C. equivalence class partitioning
+D. state-based partitioning
+
+
+Web应用软件的测试
+
+Which of the following is not one of the dimensions of quality used to assess a WebApp?  @[B](1)
+A. Content
+B. Maintainability
+C. Navigability
+D. Usability
+
+As the WebApp architecture is constructed which types of testing are used as integration tests? *@[AC](2)
+A. Component testing
+B. Content testing
+C. Navigation testing
+D. Usability testing
+
+Which of the following is not one of the objectives of WebApp content testing?  @[B](1)
+A. Find organizational or structure errors
+B. Identify linking errors
+C. Uncover semantic errors
+D. Uncover syntactic errors
+
+The overall strategy for interface testing is to uncover errors __. *@[AC](2)
+A. in navigation semantics
+B. in overall usabililty
+C. related to specific interface mechanisms
+D. in content semantics
+
+Which of the following is not a WebApp interface mechanism? @[C](1)
+A. Browser
+B. Cookies
+C. Forms
+D. Links
+
+Which test case design technique(s) are appropriate for WebApp component-level testing? *@[ABC](2)
+A. Boundary value analysis
+B. Equivalence partitioning
+C. Path testing
+D. Thread based testing
+
+Which of following is not one of the elements that need to be considered when constructing WebApp server-side configuration tests? @[A](1)
+A. Browser compatibility
+B. Database software integration
+C. Operating system compatibility
+D. System security measures
+
+Which of the following is not a testable WebApp security element? @[D](1)
+A. Authentication
+B. Encryption
+C. Firewalls
+D. Penetration
+
+WebApp performance tests are designed to __. @[C](1)
+A. asses WebApp usability
+B. evaluate page loading times
+C. simulate real-world loading situations
+D. test network connectivity
+
+Load testing involves determining the input of which 3 variables?  @[A](1)
+A. N, T, D
+B. N, T, P
+C. T, D, P
+D. N, D, P
+
+
+移动应用软件的测试
+
+Which of the following are reasons for testing in the wild? *@[AD](2)
+A. Assessing the impact of production environments
+B. Failing to create test cases
+C. Not understanding user demographics
+D. Testing for variable performance on user devices
+
+Which of that following add to the difficulty of testing MobileApp gestures? *@[ABC](2)
+A. Automatic tool use is difficult
+B. Creating functions to simulate events
+C. Screen size variation
+D. Using paper prototypes
+
+Which of the following are issues that make real-time testing difficult? *@[ABC](2)
+A. Limited device processing capacity
+B. Power limitations on the device
+C. Unique mobile network infrastructures
+D. Difficulty of logging gestures accurately
+
+
+安全工程
+
+Which of following is not one of the elements of a security model? @[A](1)
+A. Criminal background checks
+B. External interface requirements
+C. Rules of operation
+D. Security policy objectives
+
+Security metrics and measures need to assess which of these properties? *@[ABC](2)
+A. Dependability
+B. Survivability
+C. Trustworthiness
+D. Usability
+
+Security correctness checks should be included which of the following activities? *@[ABC](2)
+A. Audits
+B. Deployment
+C. Inspections
+D. Testing
+
+Which is not one of the elements of a security case? @[B](1)
+A. Arguments
+B. Bug reports
+C. Claims
+D. Evidence
+
+
+形式化建模与验证
+
+The cleanroom strategy is based on the __ software process model. @[B](1)
+A. evolutionary
+B. incremental
+C. revolutionary
+D. spiral
+
+The cleanroom strategy relies on __. @[C](1)
+A. exhaustive testing
+B. extensive unit testing of all modules
+C. tests that exercise the software as it is really used
+D. white box testing strategies
+
+__ box specification describes an abstraction, stimuli, and response. @[A](1)
+A. Black
+B. Clear
+C. State
+D. White
+
+__ box specification describes the architectural design for some system component. @[C](1)
+A. Black
+B. Clear
+C. State
+D. White
+
+__ box specification is closely aligned with procedural design and structured programming. @[B](1)
+A. Black
+B. Clear
+C. State
+D. White
+
+In cleanroom software engineering the structured programming approach is used to __. *@[AB](2)
+A. refine data design
+B. refine function design
+C. refine usage test cases
+D. verify the correctness of procedural design
+
+Which of the following is not an advantage of using rigorous correctness verification of each refinement of the clear box design? @[A](1)
+A. improves performance of code
+B. produces better code than unit testing
+C. reduces verification effort
+D. results in near zero defect levels
+
+Statistical use testing relies on probability distributions based on __. @[C](1)
+A. mixture of control structures used in the program
+B. order in which the module execute
+C. the way software will actually be used
+D. user interface design standards
+
+Which of the following models is part of the cleanroom certification process? *@[AB](2)
+A. component model
+B. sampling model
+C. function model
+D. process model
+
+In some formal languages, stored data that the system accesses and alters is called __. @[C](1)
+A. an attribute
+B. a data structure
+C. a state
+D. a variant
+
+In formal methods work, an action that reads or writes data to a state is called an __. @[D](1)
+A. actor
+B. event
+C. invariant
+D. operation
+
+What defines the circumstances in which a particular operation is valid? @[B](1)
+A. data invariant
+B. precondition
+C. postcondition
+D. state
+
+
+软件配置管理
+
+Which of these are valid software configuration items? *@[ABCD](2)
+A. case tools
+B. documentation
+C. executable programs
+D. test data
+
+Which of the following is not considered one of the four important elements that should exist when a configuration management system is developed? @[D](1)
+A. component elements
+B. human elements
+C. process elements
+D. validation elements
+
+Which configuration objects would not typically be found in the project database? *@[BC](2)
+A. design specification
+B. marketing data
+C. organizational structure description
+D. test plans
+
+A data repository meta model is used to determine how __. *@[ABC](2)
+A. information is stored in the repository
+B. well data integrity can be maintained
+C. easily the existing model can be extended
+D. changes can be justified
+
+Which of the following tasks is not part of software configuration management? @[C](1)
+A. change control
+B. reporting
+C. statistical quality control
+D. version control
+
+A basic configuration object is a __ created by a software engineer during some phase of the software development process. @[C](1)
+A. program data structure
+B. hardware driver
+C. unit of information
+D. collection of code
+
+When software configuration management is a formal activity the software configuration audit is conducted by the __. @[B](1)
+A. development team
+B. quality assurance group
+C. senior managers
+D. testing specialists
+
+The primary purpose of configuration status reporting is to __. @[C](1)
+A. allow revision of project schedule and cost estimates by project managers
+B. evaluate the performance of software developers and organizations
+C. make sure that change information is communicated to all affected parties
+D. none of the other three options
+
+Configuration issues that need to be considered when developing Web and Mobile Apps include __. *@[ABC](2)
+A. content
+B. cost
+C. people
+D. politics
+
+Web and Mobile App configuration objects can be managed in much the same way as conventional software configuration objects except for __. @[A](1)
+A. content items
+B. functional items
+C. graphic items
+D. user items
+
+
+产品度量
+
+Which of these are reasons for using technical product measures during software development? @[B](1)
+A. large body of scientific evidence supports their use
+B. provides software engineers with an objective mechanism for assessing software quality
+C. they allow all software quality information to be expressed unambiguously as a single number
+D. provides software engineers with after-the-fact insight
+
+Which measurement activity is missing from the list below?  @[B](1)
+- Formulation
+- Collection
+- Analysis
+- Interpretation
+A. design
+B. feedback
+C. measurement
+D. quantification
+
+One of the most important attributes for a software product metric is that it should be __. @[A](1)
+A. easy to compute
+B. qualitative in nature
+C. reliable over time
+D. widely applicable
+
+The specification metrics proposed by Davis address which two characteristics of the software requirements? @[C](1)
+A. functionality and performance
+B. performance and completeness
+C. specificity and completeness
+D. specificity and functionality
+
+Architectural design metrics focus on __. *@[AD](2)
+A. architectural structure
+B. data structural relationships
+C. internal module complexity
+D. module effectiveness
+
+Which of the following is not a measurable characteristic of an object-oriented design? @[B](1)
+A. completeness
+B. efficiency
+C. size
+D. volatility
+
+The depth of inheritance tree (DIT) metric can give an OO software designer a reading on the __. @[B](1)
+A. attributes required for each class
+B. completion time required for system implementation
+C. complexity of the class hierarchy
+D. level of object reusability achieved
+
+If you encounter a class with a large responsibility (large class size or CS value) you should consider __.  @[C](1)
+A. making it a base class
+B. making it a subclass
+C. partitioning the class
+D. starting a new class hierarchy
+
+Component-level metrics include measures of __. *@[ABC](2)
+A. complexity
+B. coupling
+C. module cohesion
+D. performance
+
+Halstead's source code metrics are based on the number of __. *@[BC](2)
+A. modules in the program
+B. operands in the program
+C. operators in the program
+D. volume elements in the program
+
+Software testing metrics fall into two broad categories __. *@[BD](2)
+A. metrics that focus on defect removal effectiveness
+B. metrics that focus on test coverage
+C. metrics that estimate the duration of the testing process
+D. metrics that predict the number of test cases required
+
+The IEEE software maturity index (SMI) is used to provide a measure of the __.  @[D](1)
+A. maintainability of a software product based on its availability
+B. relative age of a software product being considered for retirement
+C. reliability of a software product following regression testing
+D. stability of a software product as it is modified during maintenance
+
+
+项目管理的基本概念
+
+Effective software project management focuses on __. @[C](1)
+A. people, performance, payoff, product
+B. people, product, performance, process
+C. people, product, process, project
+D. people, process, payoff, product
+
+The first step in project planning is to __. @[D](1)
+A. determine the budget.
+B. select a team organizational model.
+C. determine the project constraints.
+D. establish the objectives and scope.
+
+Process framework activities are populated with __. *@[ABC](2)
+A. milestones
+B. work products
+C. QA points
+D. stakeholders
+
+Which of the following is not considered a stakeholder in the software process?  @[D](1)
+A. customers
+B. end-users
+C. project managers
+D. sales people
+
+The best project team organizational model to use when tackling extremely complex problems is the __. @[B](1)
+A. closed paradigm
+B. open paradigm
+C. random paradigm
+D. synchronous paradigm
+
+Which factors should be considered in choosing the organizational structure for a software team? *@[ABC](2)
+A. degree of communication desired
+B. predicted size of the resulting program
+C. rigidity of the delivery date
+D. size of the project budget
+
+One of the best ways to avoid frustration during the software development process is to __. @[A](1)
+A. give team members more control over process and technical decisions.
+B. give team members less control over process and technical decisions.
+C. hide bad news from the project team members until things improve.
+D. reward programmers based on their productivity.
+
+Which of these software characteristics is not a factor contributing to project coordination difficulties? @[B](1)
+A. interoperability
+B. performance
+C. scale
+D. uncertainty
+
+Which of these software characteristics are used to determine the scope of a software project? @[C](1)
+A. context, lines of code, function
+B. context, function, communication requirements
+C. information objectives, function, performance
+D. communications requirements, performance, information objectives
+
+The major areas of problem decomposition during the project scoping activity are the __. *@[BC](2)
+A. customer workflow
+B. functionality to be delivered
+C. process used to deliver functionality
+D. software process model
+
+When can selected common process framework activities be omitted during process decomposition? @[D](1)
+A. when the project is extremely small in size
+B. any time the software is mission critical
+C. rapid prototyping does not require their use
+D. never the activities are invariant
+
+How does a software project manager need to act to minimize the risk of software failure? *@[CD](2)
+A. double the project team size
+B. request a large budget
+C. start on the right foot
+D. track progress
+
+The W5HH principle contains which of the following questions? *@[ACD](2)
+A. Why is the system being developed?
+B. What will be done by whom?
+C. Where are they organizationally located?
+D. How much of each resource is required?
+
+Which of these are critical practices for performance-based project management? *@[BCD](2)
+A. assessing product usability
+B. defect tracking against quality targets
+C. empirical cost estimation
+D. formal risk management
+
+
+过程与项目度量
+
+Which of these are valid reasons for measuring software processes, products, and resources? *@[ABD](2)
+A. to characterize them
+B. to evaluate them
+C. to price them
+D. to improve them
+
+Process indicators enable a software project manager to __. @[D](1)
+A. assess the status of an on-going project
+B. track potential risks
+C. adjust work flow or tasks
+D. improve the process on a continuous basis
+
+Public metrics are used __. *@[CD](2)
+A. to evaluate the performance of software development teams.
+B. to appraise the performance of individual team members.
+C. to make strategic changes to the software process.
+D. to make tactical changes during a software project.
+
+Which of the following items are not measured by software project metrics? @[B](1)
+A. inputs
+B. markets
+C. outputs
+D. results
+
+Which of following are advantages of using LOC (lines of code) as a size-oriented metric? @[A](1)
+A. LOC is easily computed.
+B. LOC is a language dependent measure.
+C. LOC is a language independent measure.
+D. LOC can be computed before a design is completed.
+
+Which of the following are advantages of using function points (FP) as a measure of the functionality delivered by a software application? *@[CD](2)
+A. FP is easily computed.
+B. FP is a language dependent measure.
+C. FP is a language independent measure.
+D. FP can be computed before a design is completed.
+
+Which of the following is not a measure that can be collected from a Web application project? @[A](1)
+A. Customization index
+B. Number of dynamic objects
+C. Number of internal page links
+D. Number of static web pages
+
+Which of the following software quality factors is most likely to be affected by radical changes to computing architectures? @[D](1)
+A. operation
+B. transition
+C. revision
+D. none of the other three options
+
+Which of the following provide useful measures of software quality? @[D](1)
+A. correctness, performance, integrity, usability
+B. reliability, maintainability, integrity, sales
+C. correctness, maintainability, size, satisfaction
+D. correctness, maintainability, integrity, usability
+
+Why is it important to measure the process of software engineering and software it produces? @[C](1)
+A. It is really not necessary unless the project is extremely complex.
+B. To determine costs and allow a profit margin to be set.
+C. To determine whether a software group is improving or not.
+D. To make software engineering more like other engineering processes.
+
+To be an effective aid in process improvement the baseline data used must be __.  *@[BC](2)
+A. based on reasonable guestimates from past projects
+B. measured consistently across projects
+C. drawn from similar projects
+D. based on all previously completed projects
+
+
+软件项目的估算
+
+The objective of software project planing is to __. @[C](1)
+A. convince the customer that a project is feasible.
+B. make use of historical project data.
+C. enable a manager to make reasonable estimates of cost and schedule.
+D. determine the probable profit margin prior to bidding on a project.
+
+The project scope is defined as a means of bounding the system __. *@[AB](2)
+A. functionality
+B. performance
+C. costs
+D. schedule
+
+Software feasibility is based on which of the following? @[C](1)
+A. business and marketing concerns
+B. scope, constraints, market
+C. technology, finance, time, resources
+D. technical prowess of the developers
+
+The number of people required for a software project is determined __. @[A](1)
+A. after an estimate of the development effort is made.
+B. by the size of the project budget.
+C. from an assessment of the technical complexity of the system.
+D. after the time window required for hardware and software is verified.
+
+Reusable software components must be __. *@[ABC](2)
+A. catalogued for easy reference.
+B. standardized for easy application.
+C. validated for easy integration.
+D. none of the other three options
+
+The software engineering environment (SEE) consists of which of the following? *@[CD](2)
+A. customers
+B. developers
+C. hardware platforms
+D. software tools
+
+Software project estimation techniques can be broadly classified under which of the following headings? *@[BC](2)
+A. automated processes
+B. decomposition techniques
+C. empirical models
+D. regression models
+
+Problem-based estimation is based on problem decomposition which focuses on __. *@[AC](2)
+A. information domain values
+B. project schedule
+C. software functions
+D. process activities
+
+LOC-based estimation techniques require problem decomposition based on __. @[C](1)
+A. information domain values
+B. project schedule
+C. software functions
+D. process activities
+
+FP-based estimation techniques require problem decomposition based on __. @[A](1)
+A. information domain values
+B. project schedule
+C. software functions
+D. process activities
+
+Process-based estimation techniques require problem decomposition based on __. *@[CD](2)
+A. information domain values
+B. project schedule
+C. software functions
+D. process activities
+
+Empirical estimation models are typically based on __. @[C](1)
+A. expert judgement based on past project experiences
+B. refinement of expected value estimation
+C. regression models derived from historical project data
+D. trial and error determination of the parameters and coefficients
+
+COCOMO II is an example of a suite of modern empirical estimation models that require sizing information expressed as any of __. *@[ABC](2)
+A. function points
+B. lines of code
+C. object points
+D. project duration
+
+In agile software development estimation techniques focus on the time required to complete each __. @[A](1)
+A. increment
+B. scenario
+C. task
+D. use-case
+
+
+项目进度安排
+
+Which of the following is not one of the guiding principles of software project scheduling: __. @[B](1)
+A. compartmentalization
+B. market assessment
+C. time allocation
+D. effort validation
+
+The software equation can be used to show that by extending the project deadline slightly __. @[A](1)
+A. fewer people are required
+B. you are guaranteed to meet the deadline
+C. more lines of code can be produced
+D. fewer bugs can be produced
+
+The 40-20-40 rule suggests that the least of amount of development effort be spent on __. @[C](1)
+A. estimation and planning
+B. analysis and design
+C. coding
+D. testing
+
+A task set is a collection of __. @[A](1)
+A. engineering work tasks, milestones, deliverables
+B. task assignments, cost estimates, metrics
+C. milestones, deliverables, metrics
+D. responsibilities, milestones, documents
+
+The task (activity) network is a useful mechanism for __. *@[BC](2)
+A. computing the overall effort estimate
+B. detecting intertask dependencies
+C. determining the critical path
+D. specifying the task set to the customer
+
+Two tools for computing critical path and project completion times from activity networks are __. *@[AD](2)
+A. CPM
+B. DRE
+C. FP
+D. PERT
+
+The best indicator of progress on a software project is the completion __. @[C](1)
+A. of a defined engineering activity task
+B. of a successful budget review meeting on time
+C. and successful review of a defined software work product
+D. and successful acceptance of project prototype by the customer
+
+The purpose of earned value analysis is to __. @[B](1)
+A. determine how to compensate developers based on their productivity
+B. provide a quantitative means of assessing software project progress
+C. provide a qualitative means of assessing software project progress
+D. set the price point for a software product based on development effort
+
+
+风险管理
+
+Software risk always involves two characteristics __. @[C](1)
+A. fire fighting and crisis management
+B. known and unknown risks
+C. uncertainty and loss
+D. staffing and budget
+
+Three categories of risks are __. @[B](1)
+A. business risks, personnel risks, budget risks
+B. project risks, technical risks, business risks
+C. planning risks, technical risks, personnel risks
+D. management risks, technical risks, design risks
+
+A risk item checklist would contain known and predictable risks from which of these categories? *@[ABCD](2)
+A. product size
+B. development environment
+C. staff size
+D. process definition
+
+Questions that should be asked to assess the overall project risk include:  *@[ABC](2)
+A. Have top managers formally committed to support the project?
+B. Are end-users committed to the project and proposed system being built?
+C. Are requirement fully understood by development team and customers?
+D. Does the proposed budget have time allocated for marketing?
+
+Software risk impact assessment should focus on consequences affecting __. @[D](1)
+A. planning, resources, cost, schedule
+B. marketability, cost, personnel
+C. business, technology, process
+D. performance, support, cost, schedule
+
+Risk projection attempts to rate each risk in two ways __. @[C](1)
+A. likelihood and cost
+B. likelihood and impact
+C. likelihood and consequences
+D. likelihood and exposure
+
+Risk tables are sorted by __. @[B](1)
+A. probability and cost
+B. probability and impact
+C. probability and consequences
+D. probability and exposure
+
+Which factors affect the probable consequences likely if a risk does occur? *@[BC](2)
+A. risk cost
+B. risk timing
+C. risk scope
+D. risk resources
+
+Effective risk management plan needs to address which of these issues? *@[ABC](2)
+A. risk avoidance
+B. risk monitoring
+C. contingency planning
+D. risk probability
+
+Hazard analysis focuses on the identification and assessment of potential hazards that can cause __. @[D](1)
+A. project termination
+B. schedule slippage
+C. cost overruns
+D. an entire system to fail
+
+
+维护与再工程
+
+How much effort is typically expended by a software organization on software maintenance? @[C](1)
+A. 20 percent
+B. 40 percent
+C. 60 percent
+D. 80 percent
+
+Which of the following is not an example of a business process?  @[D](1)
+A. designing a new product
+B. hiring an employee
+C. purchasing services
+D. testing software
+
+Which of the following activities is not part of the software reengineering process model? @[C](1)
+A. forward engineering
+B. inventory analysis
+C. prototyping
+D. reverse engineering
+
+Software reengineering process model includes restructuring activities for which of the following work items? *@[ABC](2)
+A. code
+B. documentation
+C. data
+D. budget
+
+Which of the following is not an issue to consider when reverse engineering? @[C](1)
+A. abstraction level
+B. completeness
+C. connectivity
+D. directionality
+
+Reverse engineering of data focuses on __. *@[AB](2)
+A. database structures
+B. internal data structures
+C. UI structures
+D. none of the other three options
+
+The first reverse engineering activity involves seeking to understand __. @[B](1)
+A. data
+B. processing
+C. user interfaces
+D. none of the other three options
+
+Which of these benefits can be achieved when software is restructured? *@[ABC](2)
+A. higher quality programs
+B. reduced maintenance effort
+C. software easier to test
+D. higher profit
+
+Which of these is not an example of data restructuring? @[A](1)
+A. data analysis
+B. data name rationalization
+C. data record standardization
+D. none of the other three options
+
+
+软件过程改进
+软件工程新趋势
+
+
+
+
