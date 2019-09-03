@@ -134,26 +134,26 @@ B. 计划，分析，设计，编码
 C. 计划，分析，编码，测试
 D. 计划，设计，编码，测试
 
-Which is not one of the key questions that is answered by each team member at each daily Scrum meeting? @[C](1)
-A. What did you do since the last meeting?
-B. What obstacles are you encountering?
-C. What kind of feedback have you received from your customers?
-D. What do you plan to accomplish by the next team meeting?
+下面哪个问题不是每日敏捷开发会议上被团队成员回答的关键问题? @[C](1)
+A. 从上次会议以来你做了哪些?
+B. 当前你遇到了什么障碍?
+C. 从客户那你接收到了何种反馈?
+D. 到下一次会议时你计划完成哪些?
 
-Agile Modeling (AM) provides guidance to practitioner during which of these software tasks? *@[AB](2)
-A. Analysis
-B. Design
-C. Coding
-D. Testing
+敏捷建模 (AM) 在以下哪些软件任务期间向从业者提供了指导? *@[AB](2)
+A. 分析
+B. 设计
+C. 编码
+D. 测试
 
 
 人力资源视角下的过程
 
-Which of the following is not an important trait of an effective software engineer? @[C](1)
-A. Attentive to detail
-B. Brutally honest
-C. Follows process rule dogmatically
-D. Resilient under pressure
+以下哪一项不是有效的软件工程师的重要特征? @[C](1)
+A. 注重细节
+B. 极其诚实
+C. 教条性的遵守过程规则
+D. 足够的抗压性
 
 Which of the following can contribute to team toxicity? *@[ABD](2)
 A. Frenzied work atmosphere
