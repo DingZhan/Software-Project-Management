@@ -239,44 +239,44 @@ B. 待建产品的规模.
 C. 正在使用的软件过程.
 D. 利益相关者的需求.
 
-The result of the requirements engineering task is an analysis model that defines which of the following problem domain(s)? *@[ABC](2)
-A. information
-B. functional
-C. behavioral
-D. quality control procedure
+需求工程任务的结果是一个分析模型，它定义了以下哪些问题领域? *@[ABC](2)
+A. 信息
+B. 功能
+C. 行为
+D. 质量控制程序
 
 
 需求模型的构建
 
-Which of these is not an element of a requirements model? @[C](1)
-A. Behavioral elements
-B. Class-based elements
-C. Data elements
-D. Scenario-based elements
+下面哪一项不是需求模型的元素? @[C](1)
+A. 行为元素
+B. 基于类的元素
+C. 数据元素
+D. 基于方案的元素
 
-Which of the following is not an objective for building a requirements model? @[C](1)
-A. define set of software requirements that can be validated
-B. describe customer requirements
-C. develop an abbreviated solution for the problem
-D. establish basis for software design
+以下哪一项不是构建需求模型的目标? @[C](1)
+A. 定义可验证的软件需求集合
+B. 描述客户需求
+C. 为问题制定小型解决方案
+D. 为软件设计奠定基础
 
-Which of the following should be considered as candidate objects in a problem space? *@[ABC](2)
-A. events
-B. people
-C. structures
-D. actions
+以下哪一项应视为问题空间中的候选对象? *@[ABC](2)
+A. 事件
+B. 人
+C. 结构
+D. 行为
 
-Which of the following is not one of the broad categories used to classify operations? @[D](1)
-A. computation
-B. data manipulation
-C. event monitors
-D. transformers
+以下哪一项不是用于对操作进行分类的广泛类别之一? @[D](1)
+A. 计算
+B. 数据操作
+C. 事件监视器
+D. 变换器
 
-Which of the following items does not appear on a CRC card? @[C](1)
-A. class collaborators
-B. class name
-C. class reliability
-D. class responsibilities
+以下哪一项未显示在 CRC 卡上? @[C](1)
+A. 类合作者
+B. 类名
+C. 类可靠性
+D. 类责任
 
 Class responsibilities are defined by __. @[D](1)
 A. its attributes only
