@@ -278,350 +278,350 @@ B. 类名
 C. 类可靠性
 D. 类责任
 
-Class responsibilities are defined by __. @[D](1)
-A. its attributes only
-B. its collaborators
-C. its operations only
-D. both its attributes and operations
+类责任 __ 定义. @[D](1)
+A. 仅由它的属性
+B. 它的合作者
+C. 仅由它的操作
+D. 由它的属性和操作
 
-For purposes of behavior modeling an event occurs whenever __. @[B](1)
-A. a state and process exchange information.
-B. the system and an actor exchange information.
-C. two actors exchange information.
-D. two objects exchange information.
+每当发生 __ 事件，它都是出于行为建模的目的. @[B](1)
+A. 状态和过程交换信息
+B. 系统和参与者交换信息
+C. 两个参与者交换信息
+D. 两个对象交换信息
 
-For purposes of behavior modeling a state is any __. @[C](1)
-A. consumer or producer of data.
-B. data object hierarchy.
-C. observable mode of behavior.
-D. well defined process.
+出于行为建模的目的，状态是任何 __. @[C](1)
+A. 数据的消费者或生产者.
+B. 数据对象层次结构.
+C. 可观察的行为模式.
+D. 定义良好的过程.
 
-The state transition diagram __. @[D](1)
-A. depicts relationships between data objects
-B. depicts functions that transform the data flow
-C. indicates how data are transformed by the system
-D. indicates system reactions to external events
+状态转换图 __. @[D](1)
+A. 描述了数据对象之间的关系
+B. 描述数据流转换的功能
+C. 描述系统如何转换数据
+D. 指示了系统对外部事件的反应
 
-Which is not one of the analysis activities that is used to create a complete analysis model? @[D](1)
-A. Configuration analysis
-B. Content analysis
-C. Functional analysis
-D. Market analysis
+下面哪一项不用于创建完整分析模型的分析活动? @[D](1)
+A. 配置分析
+B. 内容分析
+C. 功能分析
+D. 市场分析
 
-What are the elements of a WebApp interaction model? @[C](1)
-A. activity diagrams, sequence diagrams, state diagrams, interface prototype
-B. activity diagrams, collaboration diagrams, sequence diagrams, state diagrams
-C. use-cases, sequence diagrams, state diagrams, interface prototype
-D. use-cases, sequence diagrams, state diagrams, sequence diagrams
+WebApp交互模型中的元素是__. @[C](1)
+A. 活动图、序列图、状态图、接口原型
+B. 活动图、协作图、序列图、状态图
+C. 用例、序列图、状态图、接口原型
+D. 用例、序列图、状态图、序列图
 
 
 设计的概念
 
-Which of the following are areas of concern in the design model? *@[ABC](2)
-A. architecture
-B. data
-C. interfaces
-D. project scope
+以下哪些是设计模型中关注的领域? *@[ABC](2)
+A. 架构
+B. 数据
+C. 接口
+D. 项目范围
 
-The importance of software design can be summarized in a single word: __. @[D](1)
-A. accuracy
-B. complexity
-C. efficiency
-D. quality
+软件设计的重要性可以概括为一个词: __. @[D](1)
+A. 准确性
+B. 复杂性
+C. 有效性
+D. 质量
 
-Which of these are characteristics of a good design? *@[BD](2)
-A. exhibits strong coupling between its modules
-B. implements all requirements in the analysis model
-C. includes test cases for all components
-D. provides a complete picture of the software
+哪些是良好设计的特征? *@[BD](2)
+A. 其模块之间表现出强耦合
+B. 实现分析模型中的所有需求
+C. 包括所有组件的测试用例
+D. 提供了软件的完整图
 
-Which of the following is not a characteristic common to all design methods? @[A](1)
-A. configuration management
-B. functional component representation
-C. quality assessment guidelines
-D. refinement heuristics
+以下哪一项不是所有设计方法共有的特征? @[A](1)
+A. 配置管理
+B. 功能组件表示
+C. 质量评估准则
+D. 细化启发
 
-What types of abstraction are used in software design? *@[ABD](2)
-A. control
-B. data
-C. environmental
-D. procedural
+软件设计中使用了哪些类型的抽象? *@[ABD](2)
+A. 控制
+B. 数据
+C. 环境
+D. 程序
 
-Which of the following can be used to represent the architectural design of a piece of software? *@[ABC](2)
-A. Dynamic models
-B. Functional models
-C. Structural models
-D. Interaction models
+以下哪一项可用于表示部分软件的体系结构设计? *@[ABC](2)
+A. 动态模型
+B. 功能模型
+C. 结构模型
+D. 交互模型
 
-Cohesion is a qualitative indication of the degree to which a module __. @[B](1)
-A. can be written more compactly
-B. focuses on just one thing
-C. is able to complete its function in a timely manner
-D. is connected to other modules and the outside world
+内聚性是模块的定性指示，它 __. @[B](1)
+A. 可以写得更紧凑些
+B. 只关注一件事
+C. 能及时完成其功能
+D. 连接到其他模块和外部世界
 
-Coupling is a qualitative indication of the degree to which a module __. @[D](1)
-A. can be written more compactly
-B. focuses on just one thing
-C. is able to complete its function in a timely manner
-D. is connected to other modules and the outside world
+耦合是模块的定性指示 __. @[D](1)
+A. 可以写得更紧凑些
+B. 只关注一件事
+C. 能及时完成其功能
+D. 连接到其他模块和外部世界
 
-Which of the following is not one of the five design class types? @[B](1)
-A. Business domain classes
-B. Entity classes
-C. Process classes
-D. User interface classes
+以下哪一种不是五种设计类类型之一? @[B](1)
+A. 业务域类
+B. 实体类
+C. 流程类
+D. 用户界面类
 
-Which design model elements are used to depict a model of information represented from the user's view? @[C](1)
-A. Architectural design elements
-B. Component-level design elements
-C. Data design elements
-D. Interface design elements
+哪些设计模型元素用于描述从用户视图中表示的信息模型? @[C](1)
+A. 体系结构设计元素
+B. 组件层设计元素
+C. 数据设计元素
+D. 接口设计元素
 
-Which design is equivalent to the floor plan of a house? @[A](1)
-A. Architectural design
-B. Component-level design
-C. Data design
-D. Interface design
+哪种设计相当于房子的平面图? @[A](1)
+A. 体系结构设计
+B. 组件层设计
+C. 数据设计
+D. 接口设计
 
-Which design model is equivalent to the detailed drawings of the access points and external utilities for a house? @[D](1)
-A. Architectural design
-B. Component-level design
-C. Data design
-D. Interface design
+哪种设计模型等效于房屋接入点和外部公用设施的详细图纸? @[D](1)
+A. 体系结构设计
+B. 组件层设计
+C. 数据设计
+D. 接口设计
 
-Which design model is equivalent to a set of detailed drawings for each room in a house? @[B](1)
-A. Architectural design
-B. Component-level design
-C. Data design
-D. Interface design
+哪种设计模型相当于一个房子里每个房间的一组详细图纸? @[B](1)
+A. 体系结构设计
+B. 组件层设计
+C. 数据设计
+D. 接口设计
 
 
 体系结构设计
 
-An architectural style encompasses which of the following elements? *@[ABC](2)
-A. constraints
-B. set of components
-C. semantic models
-D. syntactic models
+体系结构样式包含以下哪些元素? *@[ABC](2)
+A. 约束
+B. 组件集
+C. 语义模型
+D. 句法模型
 
-To determine the architectural style or combination of styles that best fits the proposed system, requirements engineering is used to uncover __.  @[B](1)
-A. algorithmic complexity
-B. characteristics and constraints
-C. control and data
-D. design patterns
+为了确定最适合建议系统的体系结构样式或样式组合，使用需求工程来发现 __.  @[B](1)
+A. 算法复杂性
+B. 特点和约束
+C. 控制和数据
+D. 设计模式
 
-The criteria used to assess the quality of an architectural design should be based on system __. *@[BC](2)
-A. accessibility
-B. control
-C. data
-D. implementation
+用于评估体系结构设计质量的标准应基于系统 __. *@[BC](2)
+A. 可访问性
+B. 控制
+C. 数据
+D. 实现
 
-During process of modeling the system in context, systems that interact with the target system are represented as __.  *@[ABC](2)
-A. Peer-level systems
-B. Subordinate systems
-C. Superordinate systems
-D. Working systems
+在上下文中对系统建模的过程中，与目标系统交互的系统表示为 __.  *@[ABC](2)
+A. 同级系统
+B. 从属系统
+C. 上位系统
+D. 工作系统
 
-Which of the following is not an example of infrastructure components that may need to be integrated into the software architecture? @[C](1)
-A. Communications components
-B. Database components
-C. Interface components
-D. Memory management components
+以下哪一项不是可能需要集成到软件体系结构中的基础结构组件示例? @[C](1)
+A. 通信组件
+B. 数据库组件
+C. 接口组件
+D. 内存管理组件
 
-In the architecture trade-off analysis method the architectural style should be described using the __. *@[ABC](2)
-A. data flow view
-B. module view
-C. process view
-D. user view
+在体系结构权衡分析方法中，应使用 __. *@[ABC](2)
+A. 数据流视图
+B. 模块视图
+C. 过程视图
+D. 用户视图
 
-A useful technique for evaluating the overall complexity of a proposed architecture is to look at the component __. *@[BC](2)
-A. cohesion
-B. flow dependencies
-C. sharing dependencies
-D. size
+评估拟议体系结构的总体复杂性的一种比较有效的方法是查看组件的 __. *@[BC](2)
+A. 黏合度
+B. 流的依赖项
+C. 共享依赖项
+D. 大小
 
 
 构件级设计
 
-In the context of object-oriented software engineering a component contains __. @[D](1)
-A. attributes and operations
-B. instances of each class
-C. roles for each actor (device or user)
-D. set of collaborating classes
+在面向对象软件工程的上下文中，组件包含 __. @[D](1)
+A. 属性和操作
+B. 每个类的实例
+C. 每个参与者（设备或用户）的角色
+D. 协作类集
 
-In traditional software engineering modules must serve in which of the following roles? *@[ABC](2)
-A. Control component
-B. Infrastructure component
-C. Problem domain component
-D. Communication component
+在传统的软件工程中，模块必须服务以下哪个组件? *@[ABC](2)
+A. 控制组件
+B. 基础设施组件
+C. 问题域组件
+D. 通信组件
 
-Which of the following is not one of the four principles used to guide component-level design? @[D](1)
-A. Dependency Inversion Principle
-B. Interface Segregation Principle
-C. Open-Closed Principle
-D. Parsimonious Complexity Principle
+以下哪一项不是用于指导组件级设计的四项原则之一? @[D](1)
+A. 依赖倒置原则
+B. 接口分离原则
+C. 开闭原则
+D. 简约的复杂性原理
 
-In component design elaboration requires which of the following elements to be describe in detail? *@[BCD](2)
+在组件设计中，详细设计需要详细描述以下哪些元素? *@[BCD](2)
 A. Algorithms
 B. Attributes
 C. Interfaces
 D. Operations
 
-In component-level design persistent data sources refer to __. *@[BC](2)
-A. Component libraries
-B. Databases
-C. Files
-D. API's
+在组件级设计中，持久性数据源引用 __. *@[BC](2)
+A. 组件库
+B. 数据库
+C. 文件
+D. API
 
-Which of these constructs is used in structured programming? *@[BCD](2)
-A. branching
-B. condition
-C. repetition
-D. sequence
+以下哪些用于结构化编程? *@[BCD](2)
+A. 分支
+B. 条件
+C. 重复
+D. 顺序
 
-Which of the following is not one of the major activities of domain engineering? @[D](1)
-A. analysis
-B. construction
-C. dissemination
-D. validation
+以下哪一项不是领域工程的主要活动之一? @[D](1)
+A. 分析
+B. 构建
+C. 传播
+D. 验证
 
-Which of the following factors would not be considered during component qualification? @[D](1)
-A. application programming interface (API)
-B. development and integration tools required
-C. exception handling
-D. testing equipment required
+在组件认证期间不考虑以下哪个因素? @[D](1)
+A. 应用程序接口 (API)
+B. 需要开发和集成工具
+C. 异常处理
+D. 需要测试设备
 
-Which of the following is not a technique used for component wrapping? @[B](1)
-A. black-box wrapping
-B. clear-box wrapping
-C. gray-box wrapping
-D. white-box wrapping
+以下哪一项不是用于组件封装的技术? @[B](1)
+A. 黑盒封装
+B. 透明盒封装
+C. 灰盒封装
+D. 白盒封装
 
-Which of the following is not one of the issues that form a basis for design for reuse? @[A](1)
-A. object-oriented programming
-B. program templates
-C. standard data
-D. standard interface protocols
+以下哪一项不是构成重用设计基础的问题之一? @[A](1)
+A. 面向对象编程
+B. 程序模板
+C. 标准数据
+D. 标准接口协议
 
-In a reuse environment, library queries are often characterized using the __ element of the 3C Model. *@[ABC](2)
-A. concept
-B. content
-C. context
-D. class
+在重用环境中，库查询通常使用 3C 模型的__元素进行特征化. *@[ABC](2)
+A. 概念
+B. 内容
+C. 上下文
+D. 类
 
 
 用户界面设计
 
-Which of the following interface design principles does not allow the user to remain in control of the interaction with a computer? @[D](1)
-A. allow interaction to interruptible
-B. allow interaction to be undoable
-C. hide technical internals from casual users
-D. only provide one rigidly defined method for accomplishing a task
+以下哪一项接口设计原则不允许用户继续控制与计算机的交互? @[D](1)
+A. 允许交互中断
+B. 允许交互可撤消
+C. 对初级用户隐藏内部技术
+D. 仅提供一种严格定义的方法来完成任务
 
-Which of the following interface design principles reduce the user's memory load? *@[ABC](2)
-A. define intuitive shortcuts
-B. disclose information in a progressive fashion
-C. establish meaningful defaults
-D. provide an on-line tutorial
+以下哪一项接口设计原则可降低用户的记忆负担? *@[ABC](2)
+A. 定义直观的快捷方式
+B. 以渐进的方式披露信息
+C. 建立有意义的默认值
+D. 提供在线教程
 
-Interface consistency implies that __. *@[BD](2)
-A. each application should have its own distinctive look and feel
-B. input mechanisms remain the same throughout the application
-C. navigational methods are context sensitive
-D. visual information is organized according to a design standard
+接口一致性意味着 __. *@[BD](2)
+A. 每个应用程序应该有自己独特的外观和感受
+B. 在整个应用程序中，输入机制保持一致性
+C. 导航方法对上下文敏感
+D. 视觉信息根据设计标准进行组织
 
-Which model depicts the profile of the end users of a computer system?  @[C](1)
-A. design model
-B. implementation model
-C. user model
-D. user's model
+哪个模型描述了计算机系统终端用户的描述?  @[C](1)
+A. 设计模型
+B. 应用模型
+C. 用户模型
+D. 使用者模式
 
-Which model depicts the image of a system that an end user creates in his or her head? @[D](1)
-A. design model
-B. user model
-C. system model
-D. system perception
+哪个模型描绘了终端用户在他头脑中创建的系统的图像? @[D](1)
+A. 设计模型
+B. 用户模型
+C. 系统模型
+D. 系统感知
 
-Which model depicts the look and feel of the user interface along with all supporting information? @[A](1)
-A. implementation model
-B. user model
-C. user's model
-D. system perception
+哪个模型描述了用户界面的外观、感受以及所有支持的信息? @[A](1)
+A. 应用模型
+B. 用户模型
+C. 使用者模式
+D. 系统感知
 
-Which of these framework activities is not normally associated with the user interface design processes? @[A](1)
-A. cost estimation
-B. interface construction
-C. interface validation
-D. user and task analysis
+哪些框架活动通常与用户界面设计过程无关? @[A](1)
+A. 成本估算
+B. 接口构造
+C. 接口验证
+D. 用户和任务分析
 
-Which approach(es) to user task analysis can be useful in user interface design? *@[CD](2)
-A. have users indicate their preferences on questionnaires
-B. rely on the judgement of experienced programmers
-C. study existing computer-based solutions
-D. observe users performing tasks manually
+在用户界面设计中，哪些方法可能对用户任务分析有用? *@[CD](2)
+A. 让用户在调查表上表明他们的偏好
+B. 依靠有经验的程序员的判断
+C. 研究现有的基于计算机的解决方案
+D. 观察用户手动执行任务
 
-Several common design issues surface for almost every user interface including __.  *@[BD](2)
-A. adaptive user profiles
-B. error handling
-C. resolution of graphics displays
-D. system response time
+几乎每个用户界面都出现几个常见的设计问题，包括 __.  *@[BD](2)
+A. 自适应用户配置
+B. 错误处理
+C. 图形显示的分辨率
+D. 系统响应时间
 
-Several usability measures can be collected while observing users interacting with a computer system including __. *@[BD](2)
-A. down time for the application
-B. number of user errors
-C. software reliability
-D. time spent looking at help materials
+在观察用户与计算机系统交互时，可以收集多种可用性度量，包括 __. *@[BD](2)
+A. 应用程序的停机时间
+B. 用户错误数
+C. 软件可靠性
+D. 查看帮助材料所花费的时间
 
 
 基于模式的设计
 
-Which of the following is not one of the elements of a design pattern? @[B](1)
-A. context
-B. environment
-C. problem
-D. solution
+以下哪一项不是设计模式的元素之一? @[B](1)
+A. 上下文
+B. 环境
+C. 问题
+D. 解决方案
 
-A pattern language __. @[A](1)
-A. encompasses a collection of patterns
-B. is implemented using hypertext
-C. resembles the structure of natural languages
-D. resembles the structure of programming languages
+模式语言是 __. @[A](1)
+A. 包含模式的集合
+B. 使用超文本实现
+C. 类似于自然语言的结构
+D. 类似于编程语言的结构
 
-The concepts and techniques discussed for __ can be used in the conjunction with a pattern-based approach. @[D](1)
-A. Architectural design
-B. Component-level design
-C. User interface design
-D. All of the other three options
+ ____ 的概念和技术可用于连接基于模式的方法. @[D](1)
+A. 体系结构设计
+B. 元件设计
+C. 用户接口设计
+D. 以上三个选项
 
-Which of the following problem types are used to label columns in a pattern organizing table? *@[CD](2)
-A. Business
-B. Context
-C. Database
-D. Infrastructure
+以下哪些问题类型用于标记模式组织表中的列? *@[CD](2)
+A. 业务
+B. 上下文
+C. 数据库
+D. 基础设施
 
-Most user interface design patterns fall with in one of __ categories of patterns. @[B](1)
+大多数用户界面设计模式都属于 __ 种模式之一. @[B](1)
 A. 5
 B. 10
 C. 25
 D. 100
 
-WebApp design patterns can be classified by considering which of the dimensions listed below? *@[BC](2)
-A. Aesthetics
-B. Design focus
-C. Granularity
-D. Usability
+WebApp 设计模式可以通过考虑下面列出的哪些维度进行分类? *@[BC](2)
+A. 美学
+B. 设计理念
+C. 粒度
+D. 可用性
 
-Which of the following are levels of design focus that can be used to categorize WebApp patterns? *@[BD](2)
-A. Behavioral patterns
-B. Functional patterns
-C. Layout patterns
-D. Navigation patterns
+以下哪些项可用于对 WebApp 模式进行设计理念的级别分类? *@[BD](2)
+A. 行为模式
+B. 功能模式
+C. 布局模式
+D. 导航模式
 
-Which of the levels of granularity that can be used to describe WebApp patterns? *@[ABC](2)
-A. Architectural patterns
-B. Component patterns
-C. Design patterns
-D. Interactions patterns
+以下哪些项可用于描述 WebApp 模式的粒度级别? *@[ABC](2)
+A. 体系结构模式
+B. 组件模式
+C. 设计模式
+D. 交互模式
 
 
 Web应用设计
