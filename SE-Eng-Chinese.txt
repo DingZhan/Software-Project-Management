@@ -842,195 +842,195 @@ C. 无需编写驱动程序
 D. 无需写入存根
 
 自下而上的集成测试的主要优点是 __. @[C](1)
-A. major decision points are tested early
-B. no drivers need to be written
-C. no stubs need to be written
-D. regression testing is not required
+A. 提前测试主要决策点
+B. 无需编写驱动程序
+C. 无需写入存根
+D. 不需要回归测试
 
-Regression testing should be a normal part of integration testing because as a new module is added to the system new __. *@[AB](2)
-A. control logic is invoked
-B. data flow paths are established
-C. drivers require testing
-D. stubs require testing
+回归测试应该是集成测试的正常部分，因为当新模块被添加到系统中时， 新__. *@[AB](2)
+A. 控制逻辑需要调用
+B. 数据流路径需要建立
+C. 新驱动程序需要测试
+D. 新存根需要测试
 
-Smoke testing might best be described as __. @[B](1)
-A. bulletproofing shrink-wrapped software
-B. rolling integration testing
-C. testing that hides implementation errors
-D. unit testing for small programs
+烟雾测试最好描述为 __. @[B](1)
+A. 防弹收缩包装软件
+B. 滚动集成测试
+C. 隐藏实现错误的测试
+D. 小型程序的单元测试
 
-The object-oriented testing integration strategy involves testing __. @[A](1)
-A. groups of classes that collaborate or communicate in some way
-B. single operations as they are added to the evolving class implementation
-C. operator programs derived from use-case scenarios
-D. none of the other three options
+面向对象的测试集成策略涉及测试 __. @[A](1)
+A. 以某种方式进行协作或通信的类组
+B. 单个操作添加到不断发展的类实现中
+C. 从用例场景派生出操作程序
+D. 非以上三项
 
-Acceptance tests are normally conducted by the __. @[B](1)
-A. developer
-B. end users
-C. test team
-D. systems engineers
+验收测试通常由 __ 主导. @[B](1)
+A. 开发人员
+B. 终端用户
+C. 测试组
+D. 系统工程师
 
-Which of the following is not an approach to debugging? @[D](1)
-A. backtracking
-B. brute force
-C. cause elimination
-D. code restructuring
+以下哪一项不是调试方法? @[D](1)
+A. 回溯
+B. 蛮力
+C. 原因消除
+D. 代码重组
 
 
 传统应用软件的测试
 
-Which of the following are characteristics of testable software? *@[ABC](2)
-A. observability
-B. simplicity
-C. stability
-D. efficiency
+以下哪一项是可测试软件的特征? *@[ABC](2)
+A. 可观测性
+B. 简单性
+C. 稳定性
+D. 有效性
 
-The testing technique that requires devising test cases to demonstrate that each program function is operational is called __. @[A](1)
-A. black-box testing
-B. glass-box testing
-C. grey-box testing
-D. white-box testing
+需要设计测试用例以证明每个程序功能是否可操作的测试技术称为 __. @[A](1)
+A. 黑盒测试
+B. 玻璃盒测试
+C. 灰盒测试
+D. 白盒测试
 
-The testing technique that requires devising test cases to exercise the internal logic of a software module is called __. @[D](1)
-A. behavioral testing
-B. black-box testing
-C. grey-box testing
-D. white-box testing
+需要设计测试用例来练习软件模块的内部逻辑的测试技术称为 __. @[D](1)
+A. 行为测试
+B. 黑盒测试
+C. 灰盒测试
+D. 白盒测试
 
-What types of errors are missed by black-box testing and can be uncovered by white-box testing? *@[BD](2)
-A. behavioral errors
-B. logic errors
-C. performance errors
-D. typographical errors
+哪些类型的错误会被黑盒测试遗漏，但可以通过白盒测试发现? *@[BD](2)
+A. 行为错误
+B. 逻辑错误
+C. 性能错误
+D. 印刷错误
 
-The cyclomatic complexity metric provides the designer with information regarding the number of __. @[C](1)
-A. cycles in the program
-B. errors in the program
-C. independent logic paths in the program
-D. statements in the program
+循环复杂性指标为设计人员提供有关 __ 信息. @[C](1)
+A. 程序中的循环
+B. 程序中的错误
+C. 程序中的独立逻辑路径
+D. 程序中的语句
 
-Condition testing is a control structure testing technique where the criteria used to design test cases is that they __. @[B](1)
-A. rely on basis path testing
-B. exercise the logical conditions in a program module
-C. select test paths based on the locations and uses of variables
-D. focus on testing the validity of loop constructs
+条件测试是一种控制结构测试技术，其中用于设计测试用例的标准是，它们 __. @[B](1)
+A. 依赖基础路径测试
+B. 练习程序模块中的逻辑条件
+C. 根据变量的位置和用途选择测试路径
+D. 重点测试循环构造的有效性
 
-Data flow testing is a control structure testing technique where the criteria used to design test cases is that they __. @[C](1)
-A. rely on basis path testing
-B. exercise the logical conditions in a program module
-C. select test paths based on the locations and uses of variables
-D. focus on testing the validity of loop constructs
+数据流测试是一种控制结构测试技术，其中用于设计测试用例的标准是，它们 __. @[C](1)
+A. 依赖基础路径测试
+B. 练习程序模块中的逻辑条件
+C. 根据变量的位置和用途选择测试路径
+D. 重点测试循环构造的有效性
 
-Loop testing is a control structure testing technique where the criteria used to design test cases is that they __. @[D](1)
-A. rely basis path testing
-B. exercise the logical conditions in a program module
-C. select test paths based on the locations and uses of variables
-D. focus on testing the validity of loop constructs
+循环测试是一种控制结构测试技术，其中用于设计测试用例的标准是，它们 __. @[D](1)
+A. 依赖基础路径测试
+B. 练习程序模块中的逻辑条件
+C. 根据变量的位置和用途选择测试路径
+D. 重点测试循环构造的有效性
 
-Black-box testing attempts to find errors in which of the following categories?  *@[ABC](2)
-A. incorrect or missing functions
-B. interface errors
-C. performance errors
-D. none of the other three options
+黑盒测试尝试查找以下哪些类别错误?  *@[ABC](2)
+A. 不正确或缺少的功能
+B. 接口错误
+C. 性能错误
+D. 非以上三项
 
-Test derived from behavioral class models should be based on the __. @[C](1)
-A. data flow diagram
-B. object-relation diagram
-C. state transition diagram
-D. use-case diagram
+从行为类模型派生的测试应基于 __. @[C](1)
+A. 数据流图
+B. 对象关系图
+C. 状态转换图
+D. 用例图
 
-Real-time applications add a new and potentially difficult element to the testing mix -- __. @[D](1)
-A. performance
-B. reliability
-C. security
-D. time
+实时应用程序为测试组合增加了一个新的且可能难以实现的元素 -- __. @[D](1)
+A. 性能
+B. 可靠性
+C. 安全
+D. 时间
 
 
 面向对象应用软件的测试
 
-Integration testing of object-oriented software can be accomplished by which of the following testing strategies? *@[ACD](2)
-A. Cluster testing
-B. Glass-box testing
-C. Thread-based testing
-D. Use-based testing
+面向对象软件的集成测试可以通过以下测试策略来完成? *@[ACD](2)
+A. 集群测试
+B. 玻璃盒测试
+C. 基于线程的测试
+D. 基于使用情况的测试
 
-Fault-based testing is best reserved for __. @[B](1)
-A. conventional software testing
-B. operations and classes that are critical or suspect
-C. use-case validation
-D. white-box testing of operator algorithms
+基于故障的测试最适合保留 __. @[B](1)
+A. 传统软件测试
+B. 关键或可疑的操作和类
+C. 用例验证
+D. 操作算法的白盒测试
 
-Scenario-based testing __. @[A](1)
-A. concentrates on actor and software interaction
-B. misses errors in specifications
-C. misses errors in subsystem interactions
-D. concentrates on what the product does
+基于场景的测试 __. @[A](1)
+A. 专注于参与者和软件交互
+B. 遗漏了规范中的错误
+C. 遗漏子系统交互中的错误
+D. 专注于产品的作用
 
-Which of these techniques is not useful for partition testing at the class level __. @[C](1)
-A. attribute-based partitioning
-B. category-based partitioning
-C. equivalence class partitioning
-D. state-based partitioning
+以下哪项技术对于类级别的分区测试没有用 __. @[C](1)
+A. 基于属性的分区
+B. 基于类别的分区
+C. 等价类分区
+D. 基于状态的分区
 
 
 Web应用软件的测试
 
-Which of the following is not one of the dimensions of quality used to assess a WebApp?  @[B](1)
-A. Content
-B. Maintainability
-C. Navigability
-D. Usability
+以下哪一项不是用于评估 WebApp 的质量维度之一?  @[B](1)
+A. 内容
+B. 可维护性
+C. 可导航性
+D. 可用性
 
-As the WebApp architecture is constructed which types of testing are used as integration tests? *@[AC](2)
-A. Component testing
-B. Content testing
-C. Navigation testing
-D. Usability testing
+在构造 WebApp 体系结构时，哪些类型的测试用作集成测试? *@[AC](2)
+A. 组件测试
+B. 内容测试
+C. 导航测试
+D. 可用性测试
 
-Which of the following is not one of the objectives of WebApp content testing?  @[B](1)
-A. Find organizational or structure errors
-B. Identify linking errors
-C. Uncover semantic errors
-D. Uncover syntactic errors
+以下哪一项不是 WebApp 内容测试的目标之一?  @[B](1)
+A. 查找组织或结构错误
+B. 识别链接错误
+C. 发现语义错误
+D. 发现句法错误
 
-The overall strategy for interface testing is to uncover errors __. *@[AC](2)
-A. in navigation semantics
-B. in overall usabililty
-C. related to specific interface mechanisms
-D. in content semantics
+接口测试的总体策略是 __ 发现错误. *@[AC](2)
+A. 在导航语义中
+B. 在整体可用性
+C. 在特定的相关接口机制中
+D. 在内容语义中
 
-Which of the following is not a WebApp interface mechanism? @[C](1)
-A. Browser
+以下哪一项不是 WebApp 接口机制? @[C](1)
+A. 浏览器
 B. Cookies
-C. Forms
-D. Links
+C. 表单
+D. 链接
 
-Which test case design technique(s) are appropriate for WebApp component-level testing? *@[ABC](2)
-A. Boundary value analysis
-B. Equivalence partitioning
-C. Path testing
-D. Thread based testing
+哪种测试用例设计技术适用于 WebApp 组件级测试? *@[ABC](2)
+A. 边界值分析
+B. 等效分区
+C. 路径测试
+D. 基于线程的测试
 
-Which of following is not one of the elements that need to be considered when constructing WebApp server-side configuration tests? @[A](1)
-A. Browser compatibility
-B. Database software integration
-C. Operating system compatibility
-D. System security measures
+在构造 WebApp 服务器端配置测试时，以下哪一项是不需要考虑的因素? @[A](1)
+A. 浏览器兼容性
+B. 数据库软件集成
+C. 操作系统兼容性
+D. 系统安全措施
 
-Which of the following is not a testable WebApp security element? @[D](1)
-A. Authentication
-B. Encryption
-C. Firewalls
-D. Penetration
+以下哪一项不是可测试的 WebApp 安全元素? @[D](1)
+A. 认证
+B. 加密
+C. 防火墙
+D. 渗透
 
-WebApp performance tests are designed to __. @[C](1)
-A. asses WebApp usability
-B. evaluate page loading times
-C. simulate real-world loading situations
-D. test network connectivity
+WebApp 性能测试旨在 __. @[C](1)
+A. 评估 WebApp 可用性
+B. 评估页面加载时间
+C. 模拟实际加载情况
+D. 测试网络连接
 
-Load testing involves determining the input of which 3 variables?  @[A](1)
+负载测试涉及哪3个变量的输入?  @[A](1)
 A. N, T, D
 B. N, T, P
 C. T, D, P
@@ -1039,101 +1039,101 @@ D. N, D, P
 
 移动应用软件的测试
 
-Which of the following are reasons for testing in the wild? *@[AD](2)
-A. Assessing the impact of production environments
-B. Failing to create test cases
-C. Not understanding user demographics
-D. Testing for variable performance on user devices
+以下哪些项是野外测试的原因? *@[AD](2)
+A. 评估生产环境的影响
+B. 无法创建测试用例
+C. 不了解用户人口统计
+D. 测试用户设备上的可变性能
 
-Which of that following add to the difficulty of testing MobileApp gestures? *@[ABC](2)
-A. Automatic tool use is difficult
-B. Creating functions to simulate events
-C. Screen size variation
-D. Using paper prototypes
+以下哪些项增加了测试移动应用程序手势的难度? *@[ABC](2)
+A. 自动工具使用困难
+B. 创建模拟事件的函数
+C. 屏幕大小变化
+D. 使用纸质原型
 
-Which of the following are issues that make real-time testing difficult? *@[ABC](2)
-A. Limited device processing capacity
-B. Power limitations on the device
-C. Unique mobile network infrastructures
-D. Difficulty of logging gestures accurately
+以下哪些项是实时测试变得困难的原因? *@[ABC](2)
+A. 设备处理能力有限
+B. 设备上的电源限制
+C. 独特的移动网络基础设施
+D. 准确记录手势的困难
 
 
 安全工程
 
-Which of following is not one of the elements of a security model? @[A](1)
-A. Criminal background checks
-B. External interface requirements
-C. Rules of operation
-D. Security policy objectives
+以下哪一项不是安全模型的因素之一? @[A](1)
+A. 犯罪背景调查
+B. 外部接口需求
+C. 操作规则
+D. 安全政策目标
 
-Security metrics and measures need to assess which of these properties? *@[ABC](2)
-A. Dependability
-B. Survivability
-C. Trustworthiness
-D. Usability
+安全指标和措施需要评估以下哪些属性? *@[ABC](2)
+A. 可靠性
+B. 生存性
+C. 可信度
+D. 易用性
 
-Security correctness checks should be included which of the following activities? *@[ABC](2)
-A. Audits
-B. Deployment
-C. Inspections
-D. Testing
+应包括以下哪些活动的安全正确性检查? *@[ABC](2)
+A. 审计
+B. 部署
+C. 检查
+D. 测试
 
-Which is not one of the elements of a security case? @[B](1)
-A. Arguments
-B. Bug reports
-C. Claims
-D. Evidence
+以下哪个不是安全案例的因素? @[B](1)
+A. 争论
+B. 错误报告
+C. 债权
+D. 证明
 
 
 形式化建模与验证
 
-The cleanroom strategy is based on the __ software process model. @[B](1)
-A. evolutionary
-B. incremental
-C. revolutionary
-D. spiral
+洁净室策略基于 __ 软件过程模型. @[B](1)
+A. 进化性
+B. 增量性
+C. 革命性
+D. 螺旋性
 
-The cleanroom strategy relies on __. @[C](1)
-A. exhaustive testing
-B. extensive unit testing of all modules
-C. tests that exercise the software as it is really used
-D. white box testing strategies
+洁净室策略依赖 __. @[C](1)
+A. 详尽的测试
+B. 对所有模块进行广泛的单元测试
+C. 软件被真实使用时的演练测试
+D. 百合测试策略
 
-__ box specification describes an abstraction, stimuli, and response. @[A](1)
-A. Black
-B. Clear
-C. State
-D. White
+__ 盒规范描述了抽象、刺激和响应. @[A](1)
+A. 黑
+B. 透明
+C. 状态
+D. 白
 
-__ box specification describes the architectural design for some system component. @[C](1)
-A. Black
-B. Clear
-C. State
-D. White
+__ 盒规范描述了某些系统组件的体系结构设计. @[C](1)
+A. 黑
+B. 透明
+C. 状态
+D. 白
 
-__ box specification is closely aligned with procedural design and structured programming. @[B](1)
-A. Black
-B. Clear
-C. State
-D. White
+__ 盒规范与程序设计和结构化编程紧密一致. @[B](1)
+A. 黑
+B. 透明
+C. 状态
+D. 白
 
-In cleanroom software engineering the structured programming approach is used to __. *@[AB](2)
-A. refine data design
-B. refine function design
-C. refine usage test cases
-D. verify the correctness of procedural design
+在洁净室软件工程中，结构化编程方法用于 __. *@[AB](2)
+A. 细化数据设计
+B. 细化函数设计
+C. 优化使用测试用例
+D. 验证程序设计的正确性
 
-Which of the following is not an advantage of using rigorous correctness verification of each refinement of the clear box design? @[A](1)
-A. improves performance of code
-B. produces better code than unit testing
-C. reduces verification effort
-D. results in near zero defect levels
+以下哪一项不是透明盒设计中每个改进使用严格的正确性验证的优势? @[A](1)
+A. 提高代码性能
+B. 生成比单元测试更好的代码
+C. 减少验证工作量
+D. 趋近零的缺陷水平
 
-Statistical use testing relies on probability distributions based on __. @[C](1)
-A. mixture of control structures used in the program
-B. order in which the module execute
-C. the way software will actually be used
-D. user interface design standards
+基于__，统计使用测试依赖于概率分布. @[C](1)
+A. 程序中使用的控制结构的混合
+B. 模块执行的顺序
+C. 软件的实际使用方式
+D. 用户界面设计标准
 
 Which of the following models is part of the cleanroom certification process? *@[AB](2)
 A. component model
