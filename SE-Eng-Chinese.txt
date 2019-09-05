@@ -1,770 +1,770 @@
-����������
+软件的特性
 
-�����ĸ������Ѿ��������ִ���������ʦ��Ҫ���ǵķ�Χ? @[A](1)
+以下哪个问题已经不再是现代软件工程师需要考虑的范围? @[A](1)
 
-A. Ϊʲô�����Ӳ���ɱ����֮��?
-B. Ϊʲô����Ҫ�ܳ�ʱ����ܿ������?
-C. Ϊʲô����������һС������ҲҪ���Ѿ޴�?
-D. ����������֮ǰΪʲô���������ܴӲ�Ʒ��ͳͳ�޳�?
+A. 为什么计算机硬件成本如此之高?
+B. 为什么软件要很长时间才能开发完成?
+C. 为什么开发软件的一小块内容也要花费巨大?
+D. 在软件交付之前为什么软件错误不能从产品中统统剔除?
 
-����ͨ���Ǳ仯������ĥ���ԭ����__. @[C](1)
+软件通常是变化而不是磨损的原因是__. @[C](1)
 
-A. ������¶�ڲ����Ļ�����
-B. ���������������ʹ�ú󱻷���
-C. ����������У��������仯���´���
-D. �����������ֱ�ú��Ѷ���
-
-
-�������̻�������
-
-�����������ݲ������������̲���?   @[B](1)
-A. ����
-B. ����
-C. ����
-D. ����
-
-������5��ͨ���������̿���ǻ�Ծ��? @[A](1)
-A. ͨѶ���ƻ��� ��ģ�����죬����
-B. ͨѶ�����չ��������������������
-C. ��������ƣ���̣����ԣ�ά��
-D. �������ƻ�����ƣ���̣�����
+A. 软件暴露在不利的环境中
+B. 软件错误更容易在使用后被发现
+C. 在组件交互中，需求发生变化导致错误
+D. 软件备件部分变得很难定制
 
 
-����
+软件工程基本概念
 
-������һ���ǹ��ϵĹ�������? *@[AC](2)
-A. ���й�������
-B. ������������
-C. ���Թ�������
-D. ������������
+以下哪项内容不属于软件工程层面?   @[B](1)
+A. 过程
+B. 制造
+C. 方法
+D. 工具
 
-������Щ�������������̵ı�׼? *@[BD](2)
+以下哪5个通用软件工程框架是活跃的? @[A](1)
+A. 通讯，计划， 建模，构造，部署
+B. 通讯，风险管理，测量，生产，审查
+C. 分析，设计，编程，调试，维护
+D. 分析，计划，设计，编程，测试
+
+
+综述
+
+下列哪一项是公认的过程类型? *@[AC](2)
+A. 并行过程类型
+B. 迭代过程类型
+C. 线性过程类型
+D. 螺旋过程类型
+
+以下哪些是评价软件过程的标准? *@[BD](2)
 A. SEI
 B. SPICE
 C. ISO 9000
 D. ISO 9001
 
 
-����ģ��
-
-�����������ٲ�ģ���� __. @[A](1)
-A. ������������ʱ��һ���÷���.
-B. ���������������Ӧʱ��һ���÷���.
-C. �������ڴ󿪷��Ŷ���Ŀ.
-D. һ�ֺ��ٱ�ʹ�õĹ�ʱģ��.
-
-���������е�����ģ���� __. @[B](1)
-A. ������������ʱ���һ�ֺ�������.
-B. ���������Ĳ�Ʒ��Ҫ�������Ӧʱ���һ�ֺ÷���.
-C. �������ڴ󿪷��Ŷ���Ŀ.
-D. һ�ֲ���������ҵ��Ʒ�ĸ�����ģ��.
-
-�����Ե���������ģ�� __. *@[ABC](2)
-A. ���е����ı���.
-B. �������׵���Ӧ��Ʒ����仯.
-C. һ������²�������һ����ϵͳ.
-D. ������ѹ���������������ʱ.
-
-����������ԭ��ģ���� __. @[B](1)
-A. ����������ʱ��һ�ֺ�������.
-B. �ͻ����ܹ�����ض�������ʱ��һ�����õķ���.
-C. �������ڴ󿪷��Ŷ���Ŀ.
-D. һ���з��յ�ģ�ͣ���������������Ĳ�Ʒ.
-
-��������������ģ�� __. @[C](1)
-A. ��������Ʒ�Ľ�����Ϊ�ս�.
-B. ������ģ�͸�����.
-C. ��ÿһ�ε���ʱ����Ҫ��Ŀ��������.
-D. �Ƿ���ϵͳ5���汾.
-
-���п���ģ���� __. *@[AB](2)
-A. ���й��̵���һ������.
-B. �����˴������̻״̬ת�Ƶ��¼�.
-C. �����ڲ��л�ֲ�ʽϵͳ�Ŀ���.
-D. ��ʹ����Ԥ���д�������仯����ʱ.
-
-��������Ŀ���ģ���� __. @[C](1)
-A. �������ڼ����Ӳ�����.
-B. ���ܹ�֧�ֿ���������Ŀ���.
-C. Ϊ��֧�������ڶ�����.
-D. ͨ����֪�Ŀ������������������ɱ���Ч�治��.
-
-ʹ����ѧ��������������ģ�͵���ʽ������ __. *@[ABC](2)
-A. ������ڼ����ϵͳ�Ĺ淶.
-B. ������ȱ�ݵļ����ϵͳ.
-C. ��֤���ڼ����ϵͳ����ȷ��.
-D. �Ϳͻ�ͨѶ.
-
-������һ�����������ͳһ���̽�ģ�Ľ׶�����? @[D](1)
-A. ��ʼ�׶�
-B. ϸ���׶�
-C. ����׶�
-D. ��֤�׶�
-
-������һ��Ǹ����������̵�����? @[B](1)
-A. ǿ��������Ʒ�ĸ��˲���.
-B. ��Ŀ������Ҫ��ϸ�ļල��ҵ��.
-C. �����ҵ����Ҫ�Լ��������ͼƻ�.
-D. ��ҵ����Ҫ��Ȩ��������������Ʒ������.
-
-�����������Ŷ��������̵�Ŀ��? *@[BC](2)
-A. �����������̸Ľ�.
-B. ͨ��ְҵ��ѵ���Ӷ�ʹ����Ŀ���и��õĹ���ʱ��.
-C. �������ҵ���������Ŷ�.
-D. ����Ŀ������ʾ��μ��ٳɱ�ͬʱ��������.
-
-
-�����ӽ��µĹ���
-
-������һ����û�б�ҪӦ��������������? @[A](1)
-A. ������Ŀ�ƻ��Ͳ��Ե�ʹ��
-B. ���ǹ�����Ʒ��������Ҫ��
-C. ���������Ŷӽ�������ˮ��
-D. ʹ��������Ʒ��������
-
-��δ������ݹ�������������Ԥ֪��? *@[CD](2)
-A. �����ռ�����ǳ���ϸ
-B. �ڼƻ�����֮ǰ��������з��շ���
-C. �������������ڶ�ʱ���ڽ���
-D. �������̱�����Ӧ�����仯
-
-�ڼ��ޱ��(XP)����ģ���лᷢ�����ĸ���ܻ? @[D](1)
-A. ��������ƣ����룬����
-B. �ƻ�����������ƣ�����
-C. �ƻ������������룬����
-D. �ƻ�����ƣ����룬����
-
-�����ĸ����ⲻ��ÿ�����ݿ��������ϱ��Ŷӳ�Ա�ش�Ĺؼ�����? @[C](1)
-A. ���ϴλ���������������Щ?
-B. ��ǰ��������ʲô�ϰ�?
-C. �ӿͻ�������յ��˺��ַ���?
-D. ����һ�λ���ʱ��ƻ������Щ?
-
-���ݽ�ģ (AM) ��������Щ���������ڼ����ҵ���ṩ��ָ��? *@[AB](2)
-A. ����
-B. ���
-C. ����
-D. ����
-
+过程模型
+
+软件开发的瀑布模型是 __. @[A](1)
+A. 当需求定义完整时的一个好方法.
+B. 当工作程序快速响应时的一个好方法.
+C. 最适用于大开发团队项目.
+D. 一种很少被使用的过时模型.
+
+软件开发中的增量模型是 __. @[B](1)
+A. 当需求定义完整时候的一种合理方法.
+B. 当工作核心产品被要求快速响应时候的一种好方法.
+C. 最适用于大开发团队项目.
+D. 一种不适用于商业产品的革命性模型.
+
+革命性的软件过程模型 __. *@[ABC](2)
+A. 具有迭代的本质.
+B. 可以容易的适应产品需求变化.
+C. 一般情况下并不产生一次性系统.
+D. 可以最佳工作于需求定义完整时.
+
+软件开发的原型模型是 __. @[B](1)
+A. 需求定义完整时的一种合理方法.
+B. 客户不能够清楚地定义需求时的一种有用的方法.
+C. 最适用于大开发团队项目.
+D. 一种有风险的模型，很少用于有意义的产品.
+
+软件开发的螺旋模型 __. @[C](1)
+A. 以软件产品的交付作为终结.
+B. 比增量模型更无序.
+C. 在每一次迭代时都需要项目风险评估.
+D. 是发布系统5个版本.
+
+并行开发模型是 __. *@[AB](2)
+A. 并行工程的另一个名字.
+B. 定义了触发工程活动状态转移的事件.
+C. 仅用于并行或分布式系统的开发.
+D. 被使用于预期有大量需求变化发生时.
+
+基于组件的开发模型是 __. @[C](1)
+A. 仅适用于计算机硬件设计.
+B. 不能够支持可重用组件的开发.
+C. 为了支持依赖于对象技术.
+D. 通过已知的可量化的软件度量，成本与效益不符.
+
+使用数学方法的软件开发模型的形式化可以 __. *@[ABC](2)
+A. 定义基于计算机系统的规范.
+B. 开发无缺陷的计算机系统.
+C. 验证基于计算机系统的正确性.
+D. 和客户通讯.
+
+下面哪一项不是软件开发统一过程建模的阶段名称? @[D](1)
+A. 开始阶段
+B. 细化阶段
+C. 建设阶段
+D. 验证阶段
+
+下面哪一项不是个人软件过程的特性? @[B](1)
+A. 强调工作产品的个人测量.
+B. 项目经理需要仔细的监督从业者.
+C. 个体从业者需要自己负责估算和计划.
+D. 从业者需要授权控制软件工作产品的质量.
+
+下面哪项是团队软件过程的目标? *@[BC](2)
+A. 加速软件过程改进.
+B. 通过职业化训练从而使得项目具有更好的管理时间.
+C. 建立自我导向的软件团队.
+D. 向项目经理演示如何减少成本同时保持质量.
+
+
+敏捷视角下的过程
+
+下列哪一项是没有必要应用敏捷软件过程? @[A](1)
+A. 消除项目计划和测试的使用
+B. 仅是工作产品生产中需要的
+C. 过程允许团队将任务流水化
+D. 使用增量产品交付策略
+
+如何创建敏捷过程来管理不可预知性? *@[CD](2)
+A. 需求收集必须非常仔细
+B. 在计划生成之前，必须进行风险分析
+C. 软件增量必须在短时间内交付
+D. 软件过程必须适应增量变化
+
+在极限编程(XP)过程模型中会发现哪四个框架活动? @[D](1)
+A. 分析，设计，编码，测试
+B. 计划，分析，设计，编码
+C. 计划，分析，编码，测试
+D. 计划，设计，编码，测试
+
+下面哪个问题不是每日敏捷开发会议上被团队成员回答的关键问题? @[C](1)
+A. 从上次会议以来你做了哪些?
+B. 当前你遇到了什么障碍?
+C. 从客户那你接收到了何种反馈?
+D. 到下一次会议时你计划完成哪些?
+
+敏捷建模 (AM) 在以下哪些软件任务期间向从业者提供了指导? *@[AB](2)
+A. 分析
+B. 设计
+C. 编码
+D. 测试
+
 
-������Դ�ӽ��µĹ���
-
-������һ�����Ч����������ʦ����Ҫ����? @[C](1)
-A. ע��ϸ��
-B. �����ʵ
-C. �����Ե����ع��̹���
-D. �㹻�Ŀ�ѹ��
-
-������һ��ᵼ���ŶӶ���? *@[ABD](2)
-A. ���Ĺ�����Χ
-B. Ԥ�㲻��
-C. ��������Э������
-D. �Ŷӽ�ɫ�Ķ��岻��ȷ
-
-������Щ���ػ�ʹ���������Ŷӵľ��߸��ӻ�? *@[ABCD](2)
-A. ���⸴����
-B. ����Ĳ�ͬ�ӽ�
-C. ��Ԥ�ں������
-D. �������صķ���
-
-
-��������ʵ����ָ��ԭ��
-
-������һ�����������ʵ���ĺ���ԭ��? @[C](1)
-A. ������ƶ�Ӧ�þ����ܼ򵥣������Ǹ���.
-B. ����ϵͳ�Ĵ���ֻ��Ϊ�������û��ṩ��ֵ.
-C. ������ԭ�򣨲�Ʒ��20%�Ĺ�����Ҫʹ��80%�Ĺ�������ɣ�.
-D. ��ס�����������������ѡ�
-
-�������Ŷ��е�ÿ���˶����뵽�ƻ����ԭ���� __.  @[C](1)
-A. �����ƻ�������
-B. ���ƹ������
-C. �������Ŷӳ�Ա�ڼƻ���"ע��"����
-D. �˽����ⷶΧ
-
-����ģ���������������������? @[C](1)
-A. �ܹ����ӿڣ����
-B. �ɱ������գ��ƻ�
-C. ��Ϣ�����ܣ���Ϊ
-D. ���ܣ��ӿڣ��ƻ�
-
-������һ������ñ����ԭ��? @[C](1)
-A. �ڿ�ʼ����ǰ������Ԫ����
-B. ��ɵ�һ�α�����ع�����
-C. ʹ�������ƾ����ܼ�
-D. ��д�Լ�¼���룬�����ǳ����ĵ�
-
-������һ�����ռ��ͻ��������йؽ�����������Ч����? *@[ABC](2)
-A. ����������Ա�Խ������������и���
-B. �����޶������ƻ��Է�ӳ����
-C. ������Ա���Ա�ʶҪ�ϲ�����һ�������ĸ���
-D. �þ������õ��˽�ͻ�
-
-
-����ĵ���������
-
-����Ŀ�����ڼ䣬�������ͼ��ȷ�� __. *@[ABC](2)
-A. �������������
-B. ����������������
-C. ��Ҫ�����������
-D. ҵ��Ŀ��
-
-ʹ�����ȡ������ѵ��������� __. *@[BCD](2)
-A. Ԥ��
-B. ��Χ
-C. ����
-D. �ױ���
-
-������һ�����Ŀ�����ڼ佫ʹ�õ��������޹ص�����? @[C](1)
-A. һ���õĽ���������������־�������?
-B. ˭�ڹ�������ĺ��棿
-C. ˭Ϊ������?
-D. ˭��ʹ�ý������?
-
-��Э�������У��ټ������� __. @[C](1)
-A. ���Ż���ص�
-B. �����ǿͻ�
-C. �ƿػ���
-D. �����Ǿ�����
-
-������һ����������ܲ���(QFD)��ʹ�õ��������? @[C](1)
-A. ʹ���˷ܵ�
-B. ���ڴ���
-C. ǿ�Ƶ�
-D. ��ͨ��
-
-�����ȡ�ڼ������Ĺ�����Ʒ����������Щ���ض��仯 __. *@[AB](2)
-A. Ԥ���ģ.
-B. ������Ʒ�Ĺ�ģ.
-C. ����ʹ�õ���������.
-D. ��������ߵ�����.
-
-���󹤳�����Ľ����һ������ģ�ͣ���������������Щ��������? *@[ABC](2)
-A. ��Ϣ
-B. ����
-C. ��Ϊ
-D. �������Ƴ���
-
-
-����ģ�͵Ĺ���
-
-������һ�������ģ�͵�Ԫ��? @[C](1)
-A. ��ΪԪ��
-B. �������Ԫ��
-C. ����Ԫ��
-D. ���ڷ�����Ԫ��
-
-������һ��ǹ�������ģ�͵�Ŀ��? @[C](1)
-A. �������֤���������󼯺�
-B. �����ͻ�����
-C. Ϊ�����ƶ�С�ͽ������
-D. Ϊ������Ƶ춨����
-
-������һ��Ӧ��Ϊ����ռ��еĺ�ѡ����? *@[ABC](2)
-A. �¼�
-B. ��
-C. �ṹ
-D. ��Ϊ
-
-������һ������ڶԲ������з���Ĺ㷺���֮һ? @[D](1)
-A. ����
-B. ���ݲ���
-C. �¼�������
-D. �任��
-
-������һ��δ��ʾ�� CRC ����? @[C](1)
-A. �������
-B. ����
-C. ��ɿ���
-D. ������
-
-������ __ ����. @[D](1)
-A. ������������
-B. ���ĺ�����
-C. �������Ĳ���
-D. ���������ԺͲ���
-
-ÿ������ __ �¼��������ǳ�����Ϊ��ģ��Ŀ��. @[B](1)
-A. ״̬�͹��̽�����Ϣ
-B. ϵͳ�Ͳ����߽�����Ϣ
-C. ���������߽�����Ϣ
-D. �������󽻻���Ϣ
-
-������Ϊ��ģ��Ŀ�ģ�״̬���κ� __. @[C](1)
-A. ���ݵ������߻�������.
-B. ���ݶ����νṹ.
-C. �ɹ۲����Ϊģʽ.
-D. �������õĹ���.
-
-״̬ת��ͼ __. @[D](1)
-A. ���������ݶ���֮��Ĺ�ϵ
-B. ����������ת���Ĺ���
-C. ����ϵͳ���ת������
-D. ָʾ��ϵͳ���ⲿ�¼��ķ�Ӧ
-
-������һ����ڴ�����������ģ�͵ķ����? @[D](1)
-A. ���÷���
-B. ���ݷ���
-C. ���ܷ���
-D. �г�����
-
-WebApp����ģ���е�Ԫ����__. @[C](1)
-A. �ͼ������ͼ��״̬ͼ���ӿ�ԭ��
-B. �ͼ��Э��ͼ������ͼ��״̬ͼ
-C. ����������ͼ��״̬ͼ���ӿ�ԭ��
-D. ����������ͼ��״̬ͼ������ͼ
-
-
-��Ƶĸ���
-
-������Щ�����ģ���й�ע������? *@[ABC](2)
-A. �ܹ�
-B. ����
-C. �ӿ�
-D. ��Ŀ��Χ
-
-������Ƶ���Ҫ�Կ��Ը���Ϊһ����: __. @[D](1)
-A. ׼ȷ��
-B. ������
-C. ��Ч��
-D. ����
-
-��Щ��������Ƶ�����? *@[BD](2)
-A. ��ģ��֮����ֳ�ǿ���
-B. ʵ�ַ���ģ���е���������
-C. ������������Ĳ�������
-D. �ṩ������������ͼ
-
-������һ���������Ʒ������е�����? @[A](1)
-A. ���ù���
-B. ���������ʾ
-C. ��������׼��
-D. ϸ������
-
-���������ʹ������Щ���͵ĳ���? *@[ABD](2)
-A. ����
-B. ����
-C. ����
-D. ����
-
-������һ������ڱ�ʾ������������ϵ�ṹ���? *@[ABC](2)
-A. ��̬ģ��
-B. ����ģ��
-C. �ṹģ��
-D. ����ģ��
-
-�ھ�����ģ��Ķ���ָʾ���� __. @[B](1)
-A. ����д�ø�����Щ
-B. ֻ��עһ����
-C. �ܼ�ʱ����书��
-D. ���ӵ�����ģ����ⲿ����
-
-�����ģ��Ķ���ָʾ __. @[D](1)
-A. ����д�ø�����Щ
-B. ֻ��עһ����
-C. �ܼ�ʱ����书��
-D. ���ӵ�����ģ����ⲿ����
-
-������һ�ֲ����������������֮һ? @[B](1)
-A. ҵ������
-B. ʵ����
-C. ������
-D. �û�������
-
-��Щ���ģ��Ԫ�������������û���ͼ�б�ʾ����Ϣģ��? @[C](1)
-A. ��ϵ�ṹ���Ԫ��
-B. ��������Ԫ��
-C. �������Ԫ��
-D. �ӿ����Ԫ��
-
-��������൱�ڷ��ӵ�ƽ��ͼ? @[A](1)
-A. ��ϵ�ṹ���
-B. ��������
-C. �������
-D. �ӿ����
-
-�������ģ�͵�Ч�ڷ��ݽ������ⲿ������ʩ����ϸͼֽ? @[D](1)
-A. ��ϵ�ṹ���
-B. ��������
-C. �������
-D. �ӿ����
-
-�������ģ���൱��һ��������ÿ�������һ����ϸͼֽ? @[B](1)
-A. ��ϵ�ṹ���
-B. ��������
-C. �������
-D. �ӿ����
-
-
-��ϵ�ṹ���
-
-��ϵ�ṹ��ʽ����������ЩԪ��? *@[ABC](2)
-A. Լ��
-B. �����
-C. ����ģ��
-D. �䷨ģ��
-
-Ϊ��ȷ�����ʺϽ���ϵͳ����ϵ�ṹ��ʽ����ʽ��ϣ�ʹ�����󹤳������� __.  @[B](1)
-A. �㷨������
-B. �ص��Լ��
-C. ���ƺ�����
-D. ���ģʽ
-
-����������ϵ�ṹ��������ı�׼Ӧ����ϵͳ __. *@[BC](2)
-A. �ɷ�����
-B. ����
-C. ����
-D. ʵ��
-
-���������ж�ϵͳ��ģ�Ĺ����У���Ŀ��ϵͳ������ϵͳ��ʾΪ __.  *@[ABC](2)
-A. ͬ��ϵͳ
-B. ����ϵͳ
-C. ��λϵͳ
-D. ����ϵͳ
-
-������һ��ǿ�����Ҫ���ɵ�������ϵ�ṹ�еĻ����ṹ���ʾ��? @[C](1)
-A. ͨ�����
-B. ���ݿ����
-C. �ӿ����
-D. �ڴ�������
-
-����ϵ�ṹȨ����������У�Ӧʹ�� __. *@[ABC](2)
-A. ��������ͼ
-B. ģ����ͼ
-C. ������ͼ
-D. �û���ͼ
-
-����������ϵ�ṹ�����帴���Ե�һ�ֱȽ���Ч�ķ����ǲ鿴����� __. *@[BC](2)
-A. �϶�
-B. ����������
-C. ����������
-D. ��С
-
-
-���������
-
-����������������̵��������У�������� __. @[D](1)
-A. ���ԺͲ���
-B. ÿ�����ʵ��
-C. ÿ�������ߣ��豸���û����Ľ�ɫ
-D. Э���༯
-
-�ڴ�ͳ�����������У�ģ�������������ĸ����? *@[ABC](2)
-A. �������
-B. ������ʩ���
-C. ���������
-D. ͨ�����
-
-������һ�������ָ���������Ƶ�����ԭ��֮һ? @[D](1)
-A. ��������ԭ��
-B. �ӿڷ���ԭ��
-C. ����ԭ��
-D. ��Լ�ĸ�����ԭ��
-
-���������У���ϸ�����Ҫ��ϸ����������ЩԪ��? *@[BCD](2)
+人力资源视角下的过程
+
+以下哪一项不是有效的软件工程师的重要特征? @[C](1)
+A. 注重细节
+B. 极其诚实
+C. 教条性的遵守过程规则
+D. 足够的抗压性
+
+以下哪一项会导致团队毒性? *@[ABD](2)
+A. 疯狂的工作氛围
+B. 预算不足
+C. 软件过程协调不良
+D. 团队角色的定义不明确
+
+以下哪些因素会使整体软件团队的决策复杂化? *@[ABCD](2)
+A. 问题复杂性
+B. 问题的不同视角
+C. 非预期后果法则
+D. 与决策相关的风险
+
+
+软件工程实践的指导原则
+
+以下哪一项不是软件工程实践的核心原则? @[C](1)
+A. 所有设计都应该尽可能简单，但不是更简单.
+B. 软件系统的存在只是为了向其用户提供价值.
+C. 帕雷托原则（产品中20%的功能需要使用80%的工作量完成）.
+D. 记住：你生产，别人消费。
+
+让软件团队中的每个人都参与到计划活动的原因是 __.  @[C](1)
+A. 调整计划的粒度
+B. 控制功能蠕变
+C. 让所有团队成员在计划中"注册"进来
+D. 了解问题范围
+
+需求模型在哪三个领域描绘软件? @[C](1)
+A. 架构，接口，组件
+B. 成本，风险，计划
+C. 信息，功能，行为
+D. 功能，接口，计划
+
+以下哪一项不是良好编码的原则? @[C](1)
+A. 在开始编码前创建单元测试
+B. 完成第一次编码后重构代码
+C. 使变量名称尽可能简单
+D. 编写自记录代码，而不是程序文档
+
+以下哪一项是收集客户反馈的有关交付软件的有效理由? *@[ABC](2)
+A. 允许开发人员对交付的增量进行更改
+B. 可以修订交付计划以反映更改
+C. 开发人员可以标识要合并到下一个增量的更改
+D. 让经理更好地了解客户
+
+
+需求的导出与理解
+
+在项目启动期间，任务的意图是确定 __. *@[ABC](2)
+A. 基本问题的理解
+B. 所需解决方案的性质
+C. 需要解决方案的人
+D. 业务目标
+
+使需求获取变得困难的三件事是 __. *@[BCD](2)
+A. 预算
+B. 范围
+C. 理解
+D. 易变性
+
+以下哪一项不是项目启动期间将使用的上下文无关的问题? @[C](1)
+A. 一个好的解决方案将带来何种经济利益?
+B. 谁在工作请求的后面？
+C. 谁为工作买单?
+D. 谁将使用解决方案?
+
+在协作需求中，召集主持人 __. @[C](1)
+A. 安排会议地点
+B. 不会是客户
+C. 掌控会议
+D. 必须是局外人
+
+以下哪一项不是质量功能部署(QFD)中使用的需求分类? @[C](1)
+A. 使人兴奋的
+B. 可期待的
+C. 强制的
+D. 普通的
+
+需求获取期间生产的工作产品将因以下哪些因素而变化 __. *@[AB](2)
+A. 预算规模.
+B. 待建产品的规模.
+C. 正在使用的软件过程.
+D. 利益相关者的需求.
+
+需求工程任务的结果是一个分析模型，它定义了以下哪些问题领域? *@[ABC](2)
+A. 信息
+B. 功能
+C. 行为
+D. 质量控制程序
+
+
+需求模型的构建
+
+下面哪一项不是需求模型的元素? @[C](1)
+A. 行为元素
+B. 基于类的元素
+C. 数据元素
+D. 基于方案的元素
+
+以下哪一项不是构建需求模型的目标? @[C](1)
+A. 定义可验证的软件需求集合
+B. 描述客户需求
+C. 为问题制定小型解决方案
+D. 为软件设计奠定基础
+
+以下哪一项应视为问题空间中的候选对象? *@[ABC](2)
+A. 事件
+B. 人
+C. 结构
+D. 行为
+
+以下哪一项不是用于对操作进行分类的广泛类别之一? @[D](1)
+A. 计算
+B. 数据操作
+C. 事件监视器
+D. 变换器
+
+以下哪一项未显示在 CRC 卡上? @[C](1)
+A. 类合作者
+B. 类名
+C. 类可靠性
+D. 类责任
+
+类责任 __ 定义. @[D](1)
+A. 仅由它的属性
+B. 它的合作者
+C. 仅由它的操作
+D. 由它的属性和操作
+
+每当发生 __ 事件，它都是出于行为建模的目的. @[B](1)
+A. 状态和过程交换信息
+B. 系统和参与者交换信息
+C. 两个参与者交换信息
+D. 两个对象交换信息
+
+出于行为建模的目的，状态是任何 __. @[C](1)
+A. 数据的消费者或生产者.
+B. 数据对象层次结构.
+C. 可观察的行为模式.
+D. 定义良好的过程.
+
+状态转换图 __. @[D](1)
+A. 描述了数据对象之间的关系
+B. 描述数据流转换的功能
+C. 描述系统如何转换数据
+D. 指示了系统对外部事件的反应
+
+下面哪一项不用于创建完整分析模型的分析活动? @[D](1)
+A. 配置分析
+B. 内容分析
+C. 功能分析
+D. 市场分析
+
+WebApp交互模型中的元素是__. @[C](1)
+A. 活动图、序列图、状态图、接口原型
+B. 活动图、协作图、序列图、状态图
+C. 用例、序列图、状态图、接口原型
+D. 用例、序列图、状态图、序列图
+
+
+设计的概念
+
+以下哪些是设计模型中关注的领域? *@[ABC](2)
+A. 架构
+B. 数据
+C. 接口
+D. 项目范围
+
+软件设计的重要性可以概括为一个词: __. @[D](1)
+A. 准确性
+B. 复杂性
+C. 有效性
+D. 质量
+
+哪些是良好设计的特征? *@[BD](2)
+A. 其模块之间表现出强耦合
+B. 实现分析模型中的所有需求
+C. 包括所有组件的测试用例
+D. 提供了软件的完整图
+
+以下哪一项不是所有设计方法共有的特征? @[A](1)
+A. 配置管理
+B. 功能组件表示
+C. 质量评估准则
+D. 细化启发
+
+软件设计中使用了哪些类型的抽象? *@[ABD](2)
+A. 控制
+B. 数据
+C. 环境
+D. 程序
+
+以下哪一项可用于表示部分软件的体系结构设计? *@[ABC](2)
+A. 动态模型
+B. 功能模型
+C. 结构模型
+D. 交互模型
+
+内聚性是模块的定性指示，它 __. @[B](1)
+A. 可以写得更紧凑些
+B. 只关注一件事
+C. 能及时完成其功能
+D. 连接到其他模块和外部世界
+
+耦合是模块的定性指示 __. @[D](1)
+A. 可以写得更紧凑些
+B. 只关注一件事
+C. 能及时完成其功能
+D. 连接到其他模块和外部世界
+
+以下哪一种不是五种设计类类型之一? @[B](1)
+A. 业务域类
+B. 实体类
+C. 流程类
+D. 用户界面类
+
+哪些设计模型元素用于描述从用户视图中表示的信息模型? @[C](1)
+A. 体系结构设计元素
+B. 组件层设计元素
+C. 数据设计元素
+D. 接口设计元素
+
+哪种设计相当于房子的平面图? @[A](1)
+A. 体系结构设计
+B. 组件层设计
+C. 数据设计
+D. 接口设计
+
+哪种设计模型等效于房屋接入点和外部公用设施的详细图纸? @[D](1)
+A. 体系结构设计
+B. 组件层设计
+C. 数据设计
+D. 接口设计
+
+哪种设计模型相当于一个房子里每个房间的一组详细图纸? @[B](1)
+A. 体系结构设计
+B. 组件层设计
+C. 数据设计
+D. 接口设计
+
+
+体系结构设计
+
+体系结构样式包含以下哪些元素? *@[ABC](2)
+A. 约束
+B. 组件集
+C. 语义模型
+D. 句法模型
+
+为了确定最适合建议系统的体系结构样式或样式组合，使用需求工程来发现 __.  @[B](1)
+A. 算法复杂性
+B. 特点和约束
+C. 控制和数据
+D. 设计模式
+
+用于评估体系结构设计质量的标准应基于系统 __. *@[BC](2)
+A. 可访问性
+B. 控制
+C. 数据
+D. 实现
+
+在上下文中对系统建模的过程中，与目标系统交互的系统表示为 __.  *@[ABC](2)
+A. 同级系统
+B. 从属系统
+C. 上位系统
+D. 工作系统
+
+以下哪一项不是可能需要集成到软件体系结构中的基础结构组件示例? @[C](1)
+A. 通信组件
+B. 数据库组件
+C. 接口组件
+D. 内存管理组件
+
+在体系结构权衡分析方法中，应使用 __. *@[ABC](2)
+A. 数据流视图
+B. 模块视图
+C. 过程视图
+D. 用户视图
+
+评估拟议体系结构的总体复杂性的一种比较有效的方法是查看组件的 __. *@[BC](2)
+A. 黏合度
+B. 流的依赖项
+C. 共享依赖项
+D. 大小
+
+
+构件级设计
+
+在面向对象软件工程的上下文中，组件包含 __. @[D](1)
+A. 属性和操作
+B. 每个类的实例
+C. 每个参与者（设备或用户）的角色
+D. 协作类集
+
+在传统的软件工程中，模块必须服务以下哪个组件? *@[ABC](2)
+A. 控制组件
+B. 基础设施组件
+C. 问题域组件
+D. 通信组件
+
+以下哪一项不是用于指导组件级设计的四项原则之一? @[D](1)
+A. 依赖倒置原则
+B. 接口分离原则
+C. 开闭原则
+D. 简约的复杂性原理
+
+在组件设计中，详细设计需要详细描述以下哪些元素? *@[BCD](2)
 A. Algorithms
 B. Attributes
 C. Interfaces
 D. Operations
 
-�����������У��־�������Դ���� __. *@[BC](2)
-A. �����
-B. ���ݿ�
-C. �ļ�
+在组件级设计中，持久性数据源引用 __. *@[BC](2)
+A. 组件库
+B. 数据库
+C. 文件
 D. API
 
-������Щ���ڽṹ�����? *@[BCD](2)
-A. ��֧
-B. ����
-C. �ظ�
-D. ˳��
+以下哪些用于结构化编程? *@[BCD](2)
+A. 分支
+B. 条件
+C. 重复
+D. 顺序
 
-������һ������򹤳̵���Ҫ�֮һ? @[D](1)
-A. ����
-B. ����
-C. ����
-D. ��֤
+以下哪一项不是领域工程的主要活动之一? @[D](1)
+A. 分析
+B. 构建
+C. 传播
+D. 验证
 
-�������֤�ڼ䲻���������ĸ�����? @[D](1)
-A. Ӧ�ó���ӿ� (API)
-B. ��Ҫ�����ͼ��ɹ���
-C. �쳣����
-D. ��Ҫ�����豸
+在组件认证期间不考虑以下哪个因素? @[D](1)
+A. 应用程序接口 (API)
+B. 需要开发和集成工具
+C. 异常处理
+D. 需要测试设备
 
-������һ������������װ�ļ���? @[B](1)
-A. �ںз�װ
-B. ͸���з�װ
-C. �Һз�װ
-D. �׺з�װ
+以下哪一项不是用于组件封装的技术? @[B](1)
+A. 黑盒封装
+B. 透明盒封装
+C. 灰盒封装
+D. 白盒封装
 
-������һ��ǹ���������ƻ���������֮һ? @[A](1)
-A. ���������
-B. ����ģ��
-C. ��׼����
-D. ��׼�ӿ�Э��
+以下哪一项不是构成重用设计基础的问题之一? @[A](1)
+A. 面向对象编程
+B. 程序模板
+C. 标准数据
+D. 标准接口协议
 
-�����û����У����ѯͨ��ʹ�� 3C ģ�͵�__Ԫ�ؽ���������. *@[ABC](2)
-A. ����
-B. ����
-C. ������
-D. ��
-
-
-�û��������
-
-������һ��ӿ����ԭ�������û����������������Ľ���? @[D](1)
-A. ���������ж�
-B. ���������ɳ���
-C. �Գ����û������ڲ�����
-D. ���ṩһ���ϸ���ķ������������
-
-������һ��ӿ����ԭ��ɽ����û��ļ��为��? *@[ABC](2)
-A. ����ֱ�۵Ŀ�ݷ�ʽ
-B. �Խ����ķ�ʽ��¶��Ϣ
-C. �����������Ĭ��ֵ
-D. �ṩ���߽̳�
-
-�ӿ�һ������ζ�� __. *@[BD](2)
-A. ÿ��Ӧ�ó���Ӧ�����Լ����ص���ۺ͸���
-B. ������Ӧ�ó����У�������Ʊ���һ����
-C. ��������������������
-D. �Ӿ���Ϣ������Ʊ�׼������֯
-
-�ĸ�ģ�������˼����ϵͳ�ն��û�������?  @[C](1)
-A. ���ģ��
-B. Ӧ��ģ��
-C. �û�ģ��
-D. ʹ����ģʽ
-
-�ĸ�ģ��������ն��û�����ͷ���д�����ϵͳ��ͼ��? @[D](1)
-A. ���ģ��
-B. �û�ģ��
-C. ϵͳģ��
-D. ϵͳ��֪
-
-�ĸ�ģ���������û��������ۡ������Լ�����֧�ֵ���Ϣ? @[A](1)
-A. Ӧ��ģ��
-B. �û�ģ��
-C. ʹ����ģʽ
-D. ϵͳ��֪
-
-��Щ��ܻͨ�����û�������ƹ����޹�? @[A](1)
-A. �ɱ�����
-B. �ӿڹ���
-C. �ӿ���֤
-D. �û����������
-
-���û���������У���Щ�������ܶ��û������������? *@[CD](2)
-A. ���û��ڵ�����ϱ������ǵ�ƫ��
-B. �����о���ĳ���Ա���ж�
-C. �о����еĻ��ڼ�����Ľ������
-D. �۲��û��ֶ�ִ������
-
-����ÿ���û����涼���ּ���������������⣬���� __.  *@[BD](2)
-A. ����Ӧ�û�����
-B. ������
-C. ͼ����ʾ�ķֱ���
-D. ϵͳ��Ӧʱ��
-
-�ڹ۲��û�������ϵͳ����ʱ�������ռ����ֿ����Զ��������� __. *@[BD](2)
-A. Ӧ�ó����ͣ��ʱ��
-B. �û�������
-C. �����ɿ���
-D. �鿴�������������ѵ�ʱ��
+在重用环境中，库查询通常使用 3C 模型的__元素进行特征化. *@[ABC](2)
+A. 概念
+B. 内容
+C. 上下文
+D. 类
 
 
-����ģʽ�����
+用户界面设计
 
-������һ������ģʽ��Ԫ��֮һ? @[B](1)
-A. ������
-B. ����
-C. ����
-D. �������
+以下哪一项接口设计原则不允许用户继续控制与计算机的交互? @[D](1)
+A. 允许交互中断
+B. 允许交互可撤消
+C. 对初级用户隐藏内部技术
+D. 仅提供一种严格定义的方法来完成任务
 
-ģʽ������ __. @[A](1)
-A. ����ģʽ�ļ���
-B. ʹ�ó��ı�ʵ��
-C. ��������Ȼ���ԵĽṹ
-D. �����ڱ�����ԵĽṹ
+以下哪一项接口设计原则可降低用户的记忆负担? *@[ABC](2)
+A. 定义直观的快捷方式
+B. 以渐进的方式披露信息
+C. 建立有意义的默认值
+D. 提供在线教程
 
- ____ �ĸ���ͼ������������ӻ���ģʽ�ķ���. @[D](1)
-A. ��ϵ�ṹ���
-B. Ԫ�����
-C. �û��ӿ����
-D. ��������ѡ��
+接口一致性意味着 __. *@[BD](2)
+A. 每个应用程序应该有自己独特的外观和感受
+B. 在整个应用程序中，输入机制保持一致性
+C. 导航方法对上下文敏感
+D. 视觉信息根据设计标准进行组织
 
-������Щ�����������ڱ��ģʽ��֯���е���? *@[CD](2)
-A. ҵ��
-B. ������
-C. ���ݿ�
-D. ������ʩ
+哪个模型描述了计算机系统终端用户的描述?  @[C](1)
+A. 设计模型
+B. 应用模型
+C. 用户模型
+D. 使用者模式
 
-������û��������ģʽ������ __ ��ģʽ֮һ. @[B](1)
+哪个模型描绘了终端用户在他头脑中创建的系统的图像? @[D](1)
+A. 设计模型
+B. 用户模型
+C. 系统模型
+D. 系统感知
+
+哪个模型描述了用户界面的外观、感受以及所有支持的信息? @[A](1)
+A. 应用模型
+B. 用户模型
+C. 使用者模式
+D. 系统感知
+
+哪些框架活动通常与用户界面设计过程无关? @[A](1)
+A. 成本估算
+B. 接口构造
+C. 接口验证
+D. 用户和任务分析
+
+在用户界面设计中，哪些方法可能对用户任务分析有用? *@[CD](2)
+A. 让用户在调查表上表明他们的偏好
+B. 依靠有经验的程序员的判断
+C. 研究现有的基于计算机的解决方案
+D. 观察用户手动执行任务
+
+几乎每个用户界面都出现几个常见的设计问题，包括 __.  *@[BD](2)
+A. 自适应用户配置
+B. 错误处理
+C. 图形显示的分辨率
+D. 系统响应时间
+
+在观察用户与计算机系统交互时，可以收集多种可用性度量，包括 __. *@[BD](2)
+A. 应用程序的停机时间
+B. 用户错误数
+C. 软件可靠性
+D. 查看帮助材料所花费的时间
+
+
+基于模式的设计
+
+以下哪一项不是设计模式的元素之一? @[B](1)
+A. 上下文
+B. 环境
+C. 问题
+D. 解决方案
+
+模式语言是 __. @[A](1)
+A. 包含模式的集合
+B. 使用超文本实现
+C. 类似于自然语言的结构
+D. 类似于编程语言的结构
+
+ ____ 的概念和技术可用于连接基于模式的方法. @[D](1)
+A. 体系结构设计
+B. 元件设计
+C. 用户接口设计
+D. 以上三个选项
+
+以下哪些问题类型用于标记模式组织表中的列? *@[CD](2)
+A. 业务
+B. 上下文
+C. 数据库
+D. 基础设施
+
+大多数用户界面设计模式都属于 __ 种模式之一. @[B](1)
 A. 5
 B. 10
 C. 25
 D. 100
 
-WebApp ���ģʽ����ͨ�����������г�����Щά�Ƚ��з���? *@[BC](2)
-A. ��ѧ
-B. �������
-C. ����
-D. ������
+WebApp 设计模式可以通过考虑下面列出的哪些维度进行分类? *@[BC](2)
+A. 美学
+B. 设计理念
+C. 粒度
+D. 可用性
 
-������Щ������ڶ� WebApp ģʽ�����������ļ������? *@[BD](2)
-A. ��Ϊģʽ
-B. ����ģʽ
-C. ����ģʽ
-D. ����ģʽ
+以下哪些项可用于对 WebApp 模式进行设计理念的级别分类? *@[BD](2)
+A. 行为模式
+B. 功能模式
+C. 布局模式
+D. 导航模式
 
-������Щ����������� WebApp ģʽ�����ȼ���? *@[ABC](2)
-A. ��ϵ�ṹģʽ
-B. ���ģʽ
-C. ���ģʽ
-D. ����ģʽ
-
-
-WebӦ�����
-
-Which of the following characteristics should not be used to assess the quality of a WebApp? @[A](1)
-A. aesthetics
-B. reliability
-C. maintainability
-D. usability
-
-Which of the following are design goals for every WebApp? *@[ABCD](2)
-A. Simplicity
-B. Consistency
-C. Navigability
-D. Visual appeal
-
-Which of the following is not part of the design pyramid for WebApp design? @[B](1)
-A. Architectural design
-B. Business case design
-C. Content design
-D. Navigation design
-
-Which of these are WebApp interaction mechanisms? *@[ABC](2)
-A. Graphic icons
-B. Graphic images
-C. Navigation menus
-D. Scrolling bars
-
-Content design is conducted by __. *@[AB](2)
-A. Copywriters and graphic designer
-B. Web engineers
-C. Product managers
-D. None of the other three options
-
-Which of the following is not one of the content architectural structures used by web engineers? @[D](1)
-A. linear
-B. grid
-C. hierarchical
-D. parallel
-
-MVC is a three layer architecture that contains a __.  @[C](1)
-A. machine, view, content objects
-B. model, view, and content objects
-C. model, view, and controller
-D. machine, view, controller
-
-Which of these is not one of the design activities associated with object-oriented hypermedia design? @[C](1)
-A. abstract interface design
-B. conceptual design
-C. content design
-D. navigational design
+以下哪些项可用于描述 WebApp 模式的粒度级别? *@[ABC](2)
+A. 体系结构模式
+B. 组件模式
+C. 设计模式
+D. 交互模式
 
 
-�ƶ�Ӧ�����
+Web应用设计
 
-Which of the following characteristics should not be used to assess the quality of a MobileApp? @[A](1)
-A. aesthetics
-B. reliability
-C. maintainability
-D. usability
+以下哪些特征不应用于评估 WebApp 的质量? @[A](1)
+A. 美观
+B. 可靠性
+C. 可维护性
+D. 易用性
 
-Which of the following are common MobileApp design mistakes.  *@[AB](2)
-A. Inconsistency
-B. Interoperability
-C. Lean design
-D. Overdesigning
+以下哪一项是每个 WebApp 的设计目标? *@[ABCD](2)
+A. 简单性
+B. 一致性
+C. 导航性
+D. 视觉吸引力
 
+以下哪一项不是 WebApp 设计设计金字塔的一部分? @[B](1)
+A. 体系结构设计
+B. 业务案例设计
+C. 内容设计
+D. 导航设计
 
-UML����
+以下哪些项是 WebApp 交互机制? *@[ABC](2)
+A. 图标
+B. 图形图像
+C. 导航菜单
+D. 滚动条
 
-UML activity diagrams are useful in representing which analysis model elements? @[D](1)
-A. Behavioral elements
-B. Class-based elements
-C. Flow-based elements
-D. Scenario-based elements
+内容设计由 __ 指导. *@[AB](2)
+A. 文案撰稿人和平面设计师
+B. Web工程师
+C. 产品经理
+D. 非以上三项
 
-���������Ļ�������
+以下哪一项不是 Web 工程师使用的内容体系结构结构之一? @[D](1)
+A. 线性
+B. 网格
+C. 层次
+D. 并行
 
-Which of the following is not one of the attributes of software quality? @[C](1)
-A. Adds value for developers and users
-B. Effective software process creates infrastructure
-C. Removes need to consider performance issues
-D. Useful products satisfy stakeholder requirements
+MVC 是一个三层体系结构，其中包含 __.  @[C](1)
+A. 机器、视图、内容对象
+B. 模型、视图、内容对象
+C. 模型、视图、控制器
+D. 机器、视图、控制器
 
-Which of the following are ISO 9126 software quality factors? *@[ABC](2)
-A. Functionality
-B. Portability
-C. Reliability
-D. Visual appeal
-
-Which of the following is likely to be the most expensive cost of quality? @[B](1)
-A. Appraisal costs
-B. External failure costs
-C. Internal failure costs
-D. Prevention costs
-
-Which of the following management decisions have the potential to impact software quality? *@[ABC](2)
-A. Estimation decisions
-B. Risk-oriented decisions
-C. Scheduling decisions
-D. Reengineering decisions
-
-The project plan should include explicit techniques for __ and __ management. *@[AD](2)
-A. change
-B. cost
-C. error
-D. quality
+以下哪一项不是与面向对象超媒体设计相关的设计活动之一? @[C](1)
+A. 抽象接口设计
+B. 概念设计
+C. 内容设计
+D. 导航设计
 
 
-����������
+移动应用设计
 
-The level of review formality is determined by which of the following? *@[ABD](2)
-A. amount of preparation
-B. reviewer follow-up
-C. size of project budget
-D. structure of review
+以下哪些特征不应用于评估移动应用程序的质量? @[A](1)
+A. 美观
+B. 可靠性
+C. 可维护性
+D. 易用性
 
-An informal review may consist of which of the following? *@[AB](2)
-A. casual meeting
-B. desk check
-C. inspection
-D. pair programming
-
-Which of the following are objectives for formal technical reviews? @[D](1)
-A. allow senior staff members to correct errors
-B. assess programmer productivity
-C. determining who introduced an error into a program
-D. uncover errors in software work products
-
-At the end of a formal technical review all attendees can decide to __. *@[AD](2)
-A. accept the work product without modification
-B. modify the work product and continue the review
-C. reject the product due to stylistic discrepancies
-D. reject the product due to severe errors
-
-A review summary report answers which three questions? @[C](1)
-A. terminate project, replace producer, request a time extension
-B. what defects were found, what caused defects, who was responsible
-C. what was reviewed, who reviewed it, what were the findings
-D. none of the other three options
+以下哪些项是移动应用程序设计常见的错误.  *@[AB](2)
+A. 不一致性
+B. 互操作性
+C. 简化设计
+D. 过设计
 
 
-����������֤
+UML介绍
+
+UML 活动图可用于表示哪些分析模型元素? @[D](1)
+A. 行为元素
+B. 基于类的元素
+C. 基于流的元素
+D. 基于方案的元素
+
+软件质量的基本概念
+
+以下哪一项不是软件质量的属性之一? @[C](1)
+A. 为开发人员和用户增加价值
+B. 有效的软件流程创建基础架构
+C. 删除需要考虑性能问题
+D. 有用的产品满足利益相关者的要求
+
+以下哪一项是 ISO 9126 软件质量因素? *@[ABC](2)
+A. 功能性
+B. 可移植性
+C. 可靠性
+D. 视觉吸引力
+
+以下哪一项可能是最昂贵的质量成本? @[B](1)
+A. 评估费用
+B. 外部故障成本
+C. 内部故障成本
+D. 预防成本
+
+以下哪些管理决策有可能影响软件质量? *@[ABC](2)
+A. 评估决策
+B. 以风险为导向的决策
+C. 计划决策
+D. 重新设计决策
+
+为了 __ 和 __ 管理，项目计划应包括明确的技术. *@[AD](2)
+A. 变化
+B. 成本
+C. 错误
+D. 质量
+
+
+软件评审技术
+
+评审形式的程度取决于以下哪一项? *@[ABD](2)
+A. 准备量
+B. 评审者后续行动
+C. 项目预算规模
+D. 评审结构
+
+非正式评审可包括以下哪些项? *@[AB](2)
+A. 非正式会议
+B. 桌面检查
+C. 审查
+D. 结对编程
+
+以下哪一项是正式技术评审的目标? @[D](1)
+A. 允许高级工作人员纠正错误
+B. 评估程序员的工作效率
+C. 确定谁将错误引入程序中
+D. 发现软件产品中的错误
+
+在正式技术评审结束时，所有与会者都可以决定 __. *@[AD](2)
+A. 无需修改即可接受产品
+B. 修改产品并继续评审
+C. 由于风格差异而拒绝产品
+D. 由于严重错误而拒绝产品
+
+评审总结报告回答哪三个问题? @[C](1)
+A. 终止项目，更换生产者，请求延长时间
+B. 发现了什么缺陷，什么导致了缺陷，谁负责
+C. 评审什么，谁评审，评审结果是什么
+D. 非以上三项
+
+
+软件质量保证
 
 Which of these activities is not one of the activities recommended to be performed by an independent SQA group? @[D](1)
 A. prepare SQA plan for the project
@@ -809,7 +809,7 @@ C. reviews and audits
 D. test
 
 
-�������Բ���
+软件测试策略
 
 The best reason for using Independent software test teams is that __. @[D](1)
 A. software developers do not need to do any testing
@@ -878,7 +878,7 @@ C. cause elimination
 D. code restructuring
 
 
-��ͳӦ�������Ĳ���
+传统应用软件的测试
 
 Which of the following are characteristics of testable software? *@[ABC](2)
 A. observability
@@ -947,7 +947,7 @@ C. security
 D. time
 
 
-�������Ӧ�������Ĳ���
+面向对象应用软件的测试
 
 Integration testing of object-oriented software can be accomplished by which of the following testing strategies? *@[ACD](2)
 A. Cluster testing
@@ -974,7 +974,7 @@ C. equivalence class partitioning
 D. state-based partitioning
 
 
-WebӦ�������Ĳ���
+Web应用软件的测试
 
 Which of the following is not one of the dimensions of quality used to assess a WebApp?  @[B](1)
 A. Content
@@ -1037,7 +1037,7 @@ C. T, D, P
 D. N, D, P
 
 
-�ƶ�Ӧ�������Ĳ���
+移动应用软件的测试
 
 Which of the following are reasons for testing in the wild? *@[AD](2)
 A. Assessing the impact of production environments
@@ -1058,7 +1058,7 @@ C. Unique mobile network infrastructures
 D. Difficulty of logging gestures accurately
 
 
-��ȫ����
+安全工程
 
 Which of following is not one of the elements of a security model? @[A](1)
 A. Criminal background checks
@@ -1085,7 +1085,7 @@ C. Claims
 D. Evidence
 
 
-��ʽ����ģ����֤
+形式化建模与验证
 
 The cleanroom strategy is based on the __ software process model. @[B](1)
 A. evolutionary
@@ -1160,7 +1160,7 @@ C. postcondition
 D. state
 
 
-�������ù���
+软件配置管理
 
 Which of these are valid software configuration items? *@[ABCD](2)
 A. case tools
@@ -1223,7 +1223,7 @@ C. graphic items
 D. user items
 
 
-��Ʒ����
+产品度量
 
 Which of these are reasons for using technical product measures during software development? @[B](1)
 A. large body of scientific evidence supports their use
@@ -1302,7 +1302,7 @@ C. reliability of a software product following regression testing
 D. stability of a software product as it is modified during maintenance
 
 
-��Ŀ�����Ļ�������
+项目管理的基本概念
 
 Effective software project management focuses on __. @[C](1)
 A. people, performance, payoff, product
@@ -1389,7 +1389,7 @@ C. empirical cost estimation
 D. formal risk management
 
 
-��������Ŀ����
+过程与项目度量
 
 Which of these are valid reasons for measuring software processes, products, and resources? *@[ABD](2)
 A. to characterize them
@@ -1458,7 +1458,7 @@ C. drawn from similar projects
 D. based on all previously completed projects
 
 
-������Ŀ�Ĺ���
+软件项目的估算
 
 The objective of software project planing is to __. @[C](1)
 A. convince the customer that a project is feasible.
@@ -1545,7 +1545,7 @@ C. task
 D. use-case
 
 
-��Ŀ���Ȱ���
+项目进度安排
 
 Which of the following is not one of the guiding principles of software project scheduling: __. @[B](1)
 A. compartmentalization
@@ -1596,7 +1596,7 @@ C. provide a qualitative means of assessing software project progress
 D. set the price point for a software product based on development effort
 
 
-���չ���
+风险管理
 
 Software risk always involves two characteristics __. @[C](1)
 A. fire fighting and crisis management
@@ -1659,7 +1659,7 @@ C. cost overruns
 D. an entire system to fail
 
 
-ά�����ٹ���
+维护与再工程
 
 How much effort is typically expended by a software organization on software maintenance? @[C](1)
 A. 20 percent
@@ -1716,8 +1716,8 @@ C. data record standardization
 D. none of the other three options
 
 
-�������̸Ľ�
-��������������
+软件过程改进
+软件工程新趋势
 
 
 
