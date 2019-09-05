@@ -766,82 +766,82 @@ D. 非以上三项
 
 软件质量保证
 
-Which of these activities is not one of the activities recommended to be performed by an independent SQA group? @[D](1)
-A. prepare SQA plan for the project
-B. review software engineering activities to verify process compliance
-C. report any evidence of noncompliance to senior management
-D. serve as the sole test team for any software produced
+这些活动中哪一项不是建议由独立 SQA 组执行的活动之一? @[D](1)
+A. 为项目准备 SQA 计划
+B. 审查软件工程活动以验证流程合规性
+C. 向高级管理层报告任何不合规的证据
+D. 作为生产的任何软件的唯一测试团队
 
-Statistical quality assurance involves __. @[C](1)
-A. using sampling in place of exhaustive testing of software
-B. surveying customers to find out their opinions about product quality
-C. tracing each defect to its underlying cause, isolating the "vital few" causes, and moving to correct them
-D. tracing each defect to its underlying causes and using the Pareto principle to correct each problem found
+统计质量保证涉及 __. @[C](1)
+A. 使用采样代替对软件的详尽测试
+B. 调查客户以了解他们对产品质量的看法
+C. 跟踪每个缺陷产生的根本原因，隔离"关键少数"原因，并修正
+D. 跟踪每个缺陷产生的根本原因，使用帕雷托原则纠正发现的每个问题
 
-Six Sigma methodology defines three core steps: __. @[C](1)
-A. analyze, improve, control
-B. analyze, design, verify
-C. define, measure, analyze
-D. define, measure, control
+六西格玛方法定义了三个核心步骤: __. @[C](1)
+A. 分析、改进和控制
+B. 分析、设计、验证
+C. 定义、测量、分析
+D. 定义、测量、控制
 
-Software reliability problems can almost always be traced to __. *@[BC](2)
-A. errors in accuracy
-B. errors in design
-C. errors in implementation
-D. errors in operation
+软件可靠性问题几乎总是可以追溯到 __. *@[BC](2)
+A. 精度错误
+B. 设计错误
+C. 实施中的错误
+D. 操作错误
 
-Software safety is a quality assurance activity that focuses on hazards that __. @[B](1)
-A. affect the reliability of a software component
-B. may cause an entire system to fail
-C. may result from user input errors
-D. prevent profitable marketing of the final product
+软件安全是一项质量保证活动，其关注的危害主要是 __. @[B](1)
+A. 影响软件组件的可靠性
+B. 可能导致整个系统失败
+C. 可能由用户输入错误导致
+D. 防止最终产品的盈利性营销
 
-The ISO quality assurance standard that applies to software engineering is __. @[B](1)
+软件工程的 ISO 质量保证标准是 __. @[B](1)
 A. ISO 9000
 B. ISO 9001
 C. ISO 9002
 D. ISO 9003
 
-Which of the following is not a section in the standard for SQA plans recommended by IEEE? @[A](1)
-A. budget
-B. documentation
-C. reviews and audits
-D. test
+以下哪一项不是 IEEE 建议的 SQA 计划标准中的一部分? @[A](1)
+A. 预算
+B. 文档
+C. 评审和审计
+D. 测试
 
 
 软件测试策略
 
-The best reason for using Independent software test teams is that __. @[D](1)
-A. software developers do not need to do any testing
-B. strangers will test the software mercilessly
-C. testers do not get involved with the project until testing begins
-D. the conflicts of interest between developers and testers is reduced
+使用独立软件测试团队的最佳原因是 __. @[D](1)
+A. 软件开发人员不需要做任何测试
+B. 陌生人将无情地测试软件
+C. 测试人员不会参与项目，直到测试开始
+D. 减少开发人员和测试人员之间的利益冲突
 
-What is the normal order of activities in which traditional software testing is organized? @[C](1)
-A. integration testing, system testing, unit testing, validation testing.
-B. unit testing, validation testing, system testing, integration testing
-C. unit testing, integration testing, validation testing, system testing
-D. validation testing, system testing, integration testing, unit testing
+组织传统软件测试的正常活动顺序是什么? @[C](1)
+A. 集成测试、系统测试、单元测试、验证测试.
+B. 单元测试、验证测试、系统测试、集成测试
+C. 单元测试、集成测试、验证测试、系统测试
+D. 验证测试、系统测试、集成测试、单元测试
 
-Which of the following strategic issues needs to be addressed in a successful software testing process? *@[AB](2)
-A. conduct formal technical reviews prior to testing
-B. specify requirements in a quantifiable manner
-C. use independent test teams
-D. wait till code is written prior to writing the test plan
+在成功的软件测试过程中需要解决以下哪些战略问题? *@[AB](2)
+A. 在测试前进行正式的技术审查
+B. 以可量化的方式指定需求
+C. 使用独立的测试团队
+D. 在编写测试计划之前等待代码编写
 
-Which of the following need to be assessed during unit testing? *@[CD](2)
-A. algorithmic performance
-B. code stability
-C. error handling
-D. execution paths
+在单元测试期间需要评估以下哪一项? *@[CD](2)
+A. 算法性能
+B. 代码稳定性
+C. 错误处理
+D. 执行路径
 
-Top-down integration testing has as it's major advantage(s) that __. *@[BC](2)
-A. low level modules never need testing
-B. major decision points are tested early
-C. no drivers need to be written
-D. no stubs need to be written
+自上而下的集成测试的主要优点是 __. *@[BC](2)
+A. 底层模块无需测试
+B. 提前测试主要决策点
+C. 无需编写驱动程序
+D. 无需写入存根
 
-Bottom-up integration testing has as it's major advantage(s) that __. @[C](1)
+自下而上的集成测试的主要优点是 __. @[C](1)
 A. major decision points are tested early
 B. no drivers need to be written
 C. no stubs need to be written
