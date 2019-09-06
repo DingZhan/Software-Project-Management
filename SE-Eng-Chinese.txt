@@ -1135,360 +1135,360 @@ B. 模块执行的顺序
 C. 软件的实际使用方式
 D. 用户界面设计标准
 
-Which of the following models is part of the cleanroom certification process? *@[AB](2)
-A. component model
-B. sampling model
-C. function model
-D. process model
+以下哪些模型是洁净室认证流程的一部分? *@[AB](2)
+A. 组件模型
+B. 采样模型
+C. 功能模型
+D. 过程模型
 
-In some formal languages, stored data that the system accesses and alters is called __. @[C](1)
-A. an attribute
-B. a data structure
-C. a state
-D. a variant
+在某些范式语言中，系统访问和更改的存储数据称为 __. @[C](1)
+A. 一种属性
+B. 一个数据结构
+C. 一个状态
+D. 一个变量
 
-In formal methods work, an action that reads or writes data to a state is called an __. @[D](1)
-A. actor
-B. event
-C. invariant
-D. operation
+在范式方法中，读取或写入状态的动作称为 __. @[D](1)
+A. 行为者
+B. 事件
+C. 不变性
+D. 操作
 
-What defines the circumstances in which a particular operation is valid? @[B](1)
-A. data invariant
-B. precondition
-C. postcondition
-D. state
+定义特定操作有效的情况是什么? @[B](1)
+A. 数据不变量
+B. 前置条件
+C. 后置条件
+D. 状态
 
 
 软件配置管理
 
-Which of these are valid software configuration items? *@[ABCD](2)
-A. case tools
-B. documentation
-C. executable programs
-D. test data
+以下哪些是有效的软件配置项? *@[ABCD](2)
+A. 样例工具
+B. 文档
+C. 可执行程序
+D. 测试数据
 
-Which of the following is not considered one of the four important elements that should exist when a configuration management system is developed? @[D](1)
-A. component elements
-B. human elements
-C. process elements
-D. validation elements
+在开发配置管理系统时，以下哪一项不被视为四个要素之一? @[D](1)
+A. 组件要素
+B. 人力要素
+C. 过程要素
+D. 验证要素
 
-Which configuration objects would not typically be found in the project database? *@[BC](2)
-A. design specification
-B. marketing data
-C. organizational structure description
-D. test plans
+在项目数据库中通常不写入哪些配置对象? *@[BC](2)
+A. 设计规范
+B. 市场数据
+C. 组织结构描述
+D. 测试计划
 
-A data repository meta model is used to determine how __. *@[ABC](2)
-A. information is stored in the repository
-B. well data integrity can be maintained
-C. easily the existing model can be extended
-D. changes can be justified
+数据仓库元模型用于确定 __. *@[ABC](2)
+A. 信息如何在仓库中存储
+B. 如何维护良好的数据完整性
+C. 轻松扩展已有的模型
+D. 证明更改的合理性
 
-Which of the following tasks is not part of software configuration management? @[C](1)
-A. change control
-B. reporting
-C. statistical quality control
-D. version control
+以下哪个任务不属于软件配置管理? @[C](1)
+A. 更改控制
+B. 报告
+C. 统计质量控制
+D. 版本控制
 
-A basic configuration object is a __ created by a software engineer during some phase of the software development process. @[C](1)
-A. program data structure
-B. hardware driver
-C. unit of information
-D. collection of code
+基本配置对象是软件工程师在软件开发过程的某个阶段创建的 __ . @[C](1)
+A. 程序数据结构
+B. 硬件驱动
+C. 信息单元
+D. 代码集合
 
-When software configuration management is a formal activity the software configuration audit is conducted by the __. @[B](1)
-A. development team
-B. quality assurance group
-C. senior managers
-D. testing specialists
+当软件配置管理是一项正式活动时，软件配置由 __ 审核. @[B](1)
+A. 开发团队
+B. 质量保证部门
+C. 高级经理
+D. 测试专家
 
-The primary purpose of configuration status reporting is to __. @[C](1)
-A. allow revision of project schedule and cost estimates by project managers
-B. evaluate the performance of software developers and organizations
-C. make sure that change information is communicated to all affected parties
-D. none of the other three options
+配置状态报告的主要目的是 __. @[C](1)
+A. 允许项目经理修订项目进度和成本估算
+B. 评估软件开发人员和组织的绩效
+C. 确保变更信息传达给所有受影响的单位
+D. 非以上三项
 
-Configuration issues that need to be considered when developing Web and Mobile Apps include __. *@[ABC](2)
-A. content
-B. cost
-C. people
-D. politics
+开发 Web 和移动应用时需要考虑的配置问题包括 __. *@[ABC](2)
+A. 内容
+B. 成本
+C. 人
+D. 政策
 
-Web and Mobile App configuration objects can be managed in much the same way as conventional software configuration objects except for __. @[A](1)
-A. content items
-B. functional items
-C. graphic items
-D. user items
+Web 和移动应用配置对象的管理方式与传统软件配置对象大致相同，但 __ 不同. @[A](1)
+A. 内容项
+B. 功能项
+C. 图形项
+D. 用户项
 
 
 产品度量
 
-Which of these are reasons for using technical product measures during software development? @[B](1)
-A. large body of scientific evidence supports their use
-B. provides software engineers with an objective mechanism for assessing software quality
-C. they allow all software quality information to be expressed unambiguously as a single number
-D. provides software engineers with after-the-fact insight
+以下哪一项是软件开发过程中使用技术产品度量的理由? @[B](1)
+A. 大量的科学证据支持的
+B. 为软件工程师提供评估软件质量的客观机制
+C. 它们允许将所有软件质量信息明确表示为单个数字
+D. 为软件工程师提供事后洞察
 
-Which measurement activity is missing from the list below?  @[B](1)
-- Formulation
-- Collection
-- Analysis
-- Interpretation
-A. design
-B. feedback
-C. measurement
-D. quantification
+以下列表中缺少哪个测量活动?  @[B](1)
+- 公式化
+- 收集
+- 分析
+- 阐明
+A. 设计
+B. 反馈
+C. 测量
+D. 量化
 
-One of the most important attributes for a software product metric is that it should be __. @[A](1)
-A. easy to compute
-B. qualitative in nature
-C. reliable over time
-D. widely applicable
+软件产品指标最重要的属性之一是，它应该 __. @[A](1)
+A. 易于计算
+B. 定性性质
+C. 持久可靠
+D. 广泛适用
 
-The specification metrics proposed by Davis address which two characteristics of the software requirements? @[C](1)
-A. functionality and performance
-B. performance and completeness
-C. specificity and completeness
-D. specificity and functionality
+Davis 提出的规范指标解决了软件要求的哪两个特性? @[C](1)
+A. 功能和性能
+B. 性能和完整性
+C. 具体性和完整性
+D. 具体性和功能性
 
-Architectural design metrics focus on __. *@[AD](2)
-A. architectural structure
-B. data structural relationships
-C. internal module complexity
-D. module effectiveness
+体系设计指标侧重于 __. *@[AD](2)
+A. 体系结构
+B. 数据结构关系
+C. 内部模块复杂性
+D. 模块有效性
 
-Which of the following is not a measurable characteristic of an object-oriented design? @[B](1)
-A. completeness
-B. efficiency
-C. size
-D. volatility
+以下哪一项不是面向对象设计的可度量特征? @[B](1)
+A. 完整性
+B. 有效性
+C. 大小
+D. 波动性
 
-The depth of inheritance tree (DIT) metric can give an OO software designer a reading on the __. @[B](1)
-A. attributes required for each class
-B. completion time required for system implementation
-C. complexity of the class hierarchy
-D. level of object reusability achieved
+继承树深度（DIT）指标可以为面向对象软件设计人员提供 __. @[B](1)
+A. 每个类所需的属性
+B. 系统实施所需的完成时间
+C. 类层次结构的复杂性
+D. 实现的对象可重用级别
 
-If you encounter a class with a large responsibility (large class size or CS value) you should consider __.  @[C](1)
-A. making it a base class
-B. making it a subclass
-C. partitioning the class
-D. starting a new class hierarchy
+如果一个类具有较多功能（规模较大或CS值较大），则应考虑 __.  @[C](1)
+A. 把它变成基类
+B. 把它变成子类
+C. 划分该类
+D. 启动新的类层次结构
 
-Component-level metrics include measures of __. *@[ABC](2)
-A. complexity
-B. coupling
-C. module cohesion
-D. performance
+组件级指标包括 __. *@[ABC](2)
+A. 复杂性
+B. 耦合
+C. 模块内聚性
+D. 性能
 
-Halstead's source code metrics are based on the number of __. *@[BC](2)
-A. modules in the program
-B. operands in the program
-C. operators in the program
-D. volume elements in the program
+Halstead的源代码指标基于 __. *@[BC](2)
+A. 程序中的模块数量
+B. 程序中的操作数数量
+C. 程序中的操作符数量
+D. 程序中的体元素数量
 
-Software testing metrics fall into two broad categories __. *@[BD](2)
-A. metrics that focus on defect removal effectiveness
-B. metrics that focus on test coverage
-C. metrics that estimate the duration of the testing process
-D. metrics that predict the number of test cases required
+软件测试指标分为两大类 __. *@[BD](2)
+A. 侧重于缺陷消除有效性的指标
+B. 侧重于测试覆盖率的指标
+C. 估算测试过程持续时间的指标
+D. 预测所需测试用例数的指标
 
-The IEEE software maturity index (SMI) is used to provide a measure of the __.  @[D](1)
-A. maintainability of a software product based on its availability
-B. relative age of a software product being considered for retirement
-C. reliability of a software product following regression testing
-D. stability of a software product as it is modified during maintenance
+IEEE 软件成熟度指数 （SMI） 用于提供度量 __.  @[D](1)
+A. 软件产品的可维护性（基于其可用性）
+B. 从软件发布到最后软件过时后停用的时间
+C. 回归测试后软件产品的可靠性
+D. 软件产品在维护期间修改时的稳定性
 
 
 项目管理的基本概念
 
-Effective software project management focuses on __. @[C](1)
-A. people, performance, payoff, product
-B. people, product, performance, process
-C. people, product, process, project
-D. people, process, payoff, product
+有效的软件项目管理侧重于 __. @[C](1)
+A. 人, 性能, 回报, 产品
+B. 人, 产品, 性能, 过程
+C. 人, 产品, 过程, 项目
+D. 人, 过程, 回报, 产品
 
-The first step in project planning is to __. @[D](1)
-A. determine the budget.
-B. select a team organizational model.
-C. determine the project constraints.
-D. establish the objectives and scope.
+项目规划的第一步是 __. @[D](1)
+A. 确定预算
+B. 选择团队组织模型
+C. 确定项目的各种约束因素
+D. 确定目标和范围
 
-Process framework activities are populated with __. *@[ABC](2)
-A. milestones
-B. work products
-C. QA points
-D. stakeholders
+过程框架活动填充了 __. *@[ABC](2)
+A. 里程碑
+B. 工作产品
+C. QA 结点
+D. 利益相关者
 
-Which of the following is not considered a stakeholder in the software process?  @[D](1)
-A. customers
-B. end-users
-C. project managers
-D. sales people
+在软件流程中，以下哪一项不被视为利益关系人?  @[D](1)
+A. 客户
+B. 终端用户
+C. 项目经理
+D. 销售人员
 
-The best project team organizational model to use when tackling extremely complex problems is the __. @[B](1)
-A. closed paradigm
-B. open paradigm
-C. random paradigm
-D. synchronous paradigm
+在解决极其复杂的问题时使用的最佳项目团队组织模型是 __. @[B](1)
+A. 封闭范例
+B. 开放范例
+C. 随机范例
+D. 同步范例
 
-Which factors should be considered in choosing the organizational structure for a software team? *@[ABC](2)
-A. degree of communication desired
-B. predicted size of the resulting program
-C. rigidity of the delivery date
-D. size of the project budget
+在选择软件团队的组织结构时应考虑哪些因素? *@[ABC](2)
+A. 所需的沟通程度
+B. 结果程序的预测大小
+C. 交货日期的刚性
+D. 项目预算的规模
 
-One of the best ways to avoid frustration during the software development process is to __. @[A](1)
-A. give team members more control over process and technical decisions.
-B. give team members less control over process and technical decisions.
-C. hide bad news from the project team members until things improve.
-D. reward programmers based on their productivity.
+在软件开发过程中避免挫折的最佳方法之一是 __. @[A](1)
+A. 让团队成员对过程和技术决策有更多的话语权.
+B. 让团队成员对过程和技术决策有教少的话语权.
+C. 直到事情改善否则一直向项目团队成员隐藏坏消息.
+D. 根据工作效率奖励程序员.
 
-Which of these software characteristics is not a factor contributing to project coordination difficulties? @[B](1)
-A. interoperability
-B. performance
-C. scale
-D. uncertainty
+以下软件特性中哪个不是导致项目协调困难的因素? @[B](1)
+A. 互操作性
+B. 性能
+C. 规模
+D. 不确定性
 
-Which of these software characteristics are used to determine the scope of a software project? @[C](1)
-A. context, lines of code, function
-B. context, function, communication requirements
-C. information objectives, function, performance
-D. communications requirements, performance, information objectives
+以下哪一个软件特征用于确定软件项目的范围? @[C](1)
+A. 上下文、代码行、功能
+B. 上下文、功能、通信要求
+C. 信息目标、功能、性能
+D. 通信要求、性能、信息目标
 
-The major areas of problem decomposition during the project scoping activity are the __. *@[BC](2)
-A. customer workflow
-B. functionality to be delivered
-C. process used to deliver functionality
-D. software process model
+在项目范围界定活动期间，问题分解的主要领域是 __. *@[BC](2)
+A. 客户工作流程
+B. 要交付的功能
+C. 用于交付功能的过程
+D. 软件过程模型
 
-When can selected common process framework activities be omitted during process decomposition? @[D](1)
-A. when the project is extremely small in size
-B. any time the software is mission critical
-C. rapid prototyping does not require their use
-D. never the activities are invariant
+在流程分解期间何时可以省略选定的常见流程框架活动? @[D](1)
+A. 当项目规模极小时
+B. 软件处于关键结点的时候
+C. 快速原型设计不需要使用它们时
+D. 活动不变除外
 
-How does a software project manager need to act to minimize the risk of software failure? *@[CD](2)
-A. double the project team size
-B. request a large budget
-C. start on the right foot
-D. track progress
+软件项目经理需要如何采取行动，将软件故障的风险降至最低? *@[CD](2)
+A. 将项目团队规模翻倍
+B. 请求更多的预算
+C. 开始就要正确
+D. 跟踪进度
 
-The W5HH principle contains which of the following questions? *@[ACD](2)
-A. Why is the system being developed?
-B. What will be done by whom?
-C. Where are they organizationally located?
-D. How much of each resource is required?
+W5HH 原则包含以下哪些问题? *@[ACD](2)
+A. 为什么开发系统？
+B. 谁将做什么？
+C. 他们在组织上的位置是什么？
+D. 需要多少资源?
 
-Which of these are critical practices for performance-based project management? *@[BCD](2)
-A. assessing product usability
-B. defect tracking against quality targets
-C. empirical cost estimation
-D. formal risk management
+以下哪一项是基于性能的项目管理的关键实践? *@[BCD](2)
+A. 评估产品可用性
+B. 针对质量目标的缺陷跟踪
+C. 经验成本估算
+D. 正式风险管理
 
 
 过程与项目度量
 
-Which of these are valid reasons for measuring software processes, products, and resources? *@[ABD](2)
-A. to characterize them
-B. to evaluate them
-C. to price them
-D. to improve them
+哪些是衡量软件流程、产品和资源的有效原因? *@[ABD](2)
+A. 为描述它们
+B. 为评估它们
+C. 为估价它们
+D. 为改进他们
 
-Process indicators enable a software project manager to __. @[D](1)
-A. assess the status of an on-going project
-B. track potential risks
-C. adjust work flow or tasks
-D. improve the process on a continuous basis
+流程指示器使软件项目经理能够 __. @[D](1)
+A. 评估进行中项目的状态
+B. 跟踪潜在风险
+C. 调整工作流程或任务
+D. 持续改进流程
 
-Public metrics are used __. *@[CD](2)
-A. to evaluate the performance of software development teams.
-B. to appraise the performance of individual team members.
-C. to make strategic changes to the software process.
-D. to make tactical changes during a software project.
+使用公共指标 __. *@[CD](2)
+A. 评估软件开发团队的表现.
+B. 评估各个团队成员的绩效.
+C. 对软件流程进行策略更改.
+D. 在软件项目期间进行战术更改.
 
-Which of the following items are not measured by software project metrics? @[B](1)
-A. inputs
-B. markets
-C. outputs
-D. results
+以下哪项不用软件项目指标来衡量? @[B](1)
+A. 输入
+B. 市场
+C. 输出
+D. 结果
 
-Which of following are advantages of using LOC (lines of code) as a size-oriented metric? @[A](1)
-A. LOC is easily computed.
-B. LOC is a language dependent measure.
-C. LOC is a language independent measure.
-D. LOC can be computed before a design is completed.
+以下哪一项是使用代码行(LOC)作为面向大小指标的重要因素? @[A](1)
+A. 代码行容易计算.
+B. 代码行是语言相关的度量.
+C. 代码行是语言无关的度量.
+D. 在设计完成前代码行就能计算出来.
 
-Which of the following are advantages of using function points (FP) as a measure of the functionality delivered by a software application? *@[CD](2)
-A. FP is easily computed.
-B. FP is a language dependent measure.
-C. FP is a language independent measure.
-D. FP can be computed before a design is completed.
+以下哪一项是使用功能点(FP)作为功能指标度量的重要因素? *@[CD](2)
+A. 功能点容易计算.
+B. 功能点是语言相关的度量.
+C. 功能点是语言无关的度量.
+D. 在设计完成前功能点就能计算出来.
 
-Which of the following is not a measure that can be collected from a Web application project? @[A](1)
-A. Customization index
-B. Number of dynamic objects
-C. Number of internal page links
-D. Number of static web pages
+以下哪一项是无法从 Web 应用程序项目中收集的度量值? @[A](1)
+A. 自定义索引
+B. 动态对象数
+C. 内部页面链接数
+D. 静态网页数
 
-Which of the following software quality factors is most likely to be affected by radical changes to computing architectures? @[D](1)
-A. operation
-B. transition
-C. revision
-D. none of the other three options
+以下哪些软件质量因素最有可能受到计算体系结构的根本性更改的影响? @[D](1)
+A. 操作
+B. 转移
+C. 修订
+D. 非以上三项
 
-Which of the following provide useful measures of software quality? @[D](1)
-A. correctness, performance, integrity, usability
-B. reliability, maintainability, integrity, sales
-C. correctness, maintainability, size, satisfaction
-D. correctness, maintainability, integrity, usability
+以下哪一项提供了有效的软件质量度量? @[D](1)
+A. 正确性、性能、完整性、可用性
+B. 可靠性、可维护性、完整性、销售
+C. 正确性、可维护性、规模、满意度
+D. 正确性、可维护性、完整性、可用性
 
-Why is it important to measure the process of software engineering and software it produces? @[C](1)
-A. It is really not necessary unless the project is extremely complex.
-B. To determine costs and allow a profit margin to be set.
-C. To determine whether a software group is improving or not.
-D. To make software engineering more like other engineering processes.
+为什么度量软件工程生产的过程很重要? @[C](1)
+A. 除非项目极其复杂，否则确实没有必要.
+B. 确定成本并允许设置利润率.
+C. 确定软件组是否正在改进.
+D. 使软件工程更像其他工程流程.
 
-To be an effective aid in process improvement the baseline data used must be __.  *@[BC](2)
-A. based on reasonable guestimates from past projects
-B. measured consistently across projects
-C. drawn from similar projects
-D. based on all previously completed projects
+为了有效地帮助流程改进，所使用的基准数据必须 __.  *@[BC](2)
+A. 基于过去项目的合理估计
+B. 跨项目一致衡量
+C. 从类似项目中提取
+D. 基于以前完成的所有项目
 
 
 软件项目的估算
 
-The objective of software project planing is to __. @[C](1)
-A. convince the customer that a project is feasible.
-B. make use of historical project data.
-C. enable a manager to make reasonable estimates of cost and schedule.
-D. determine the probable profit margin prior to bidding on a project.
+软件项目计划的目标是 __. @[C](1)
+A. 使客户相信项目是可行的.
+B. 利用历史项目数据.
+C. 使经理能够对成本和进度做出合理的估计.
+D. 在项目投标之前确定可能的利润率.
 
-The project scope is defined as a means of bounding the system __. *@[AB](2)
-A. functionality
-B. performance
-C. costs
-D. schedule
+项目范围被定义为限制系统的 __. *@[AB](2)
+A. 功能
+B. 性能
+C. 成本
+D. 工作计划
 
-Software feasibility is based on which of the following? @[C](1)
-A. business and marketing concerns
-B. scope, constraints, market
-C. technology, finance, time, resources
-D. technical prowess of the developers
+软件可行性基于以下哪一项? @[C](1)
+A. 商业和市场问题
+B. 范围、约束、市场
+C. 技术、财务、时间、资源
+D. 开发人员的技术实力
 
-The number of people required for a software project is determined __. @[A](1)
-A. after an estimate of the development effort is made.
-B. by the size of the project budget.
-C. from an assessment of the technical complexity of the system.
-D. after the time window required for hardware and software is verified.
+确定软件项目所需的人数是 __. @[A](1)
+A. 在估计开发工作后.
+B. 按项目预算的大小.
+C. 从对系统技术复杂性的评估.
+D. 验证硬件和软件所需的时间窗口后.
 
-Reusable software components must be __. *@[ABC](2)
-A. catalogued for easy reference.
-B. standardized for easy application.
-C. validated for easy integration.
-D. none of the other three options
+可重用的软件组件必须 __. *@[ABC](2)
+A. 编写目录，便于参考.
+B. 标准化，易于应用.
+C. 经过验证，易于集成.
+D. 非以上三项
 
 The software engineering environment (SEE) consists of which of the following? *@[CD](2)
 A. customers
