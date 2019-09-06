@@ -1490,230 +1490,230 @@ B. 标准化，易于应用.
 C. 经过验证，易于集成.
 D. 非以上三项
 
-The software engineering environment (SEE) consists of which of the following? *@[CD](2)
-A. customers
-B. developers
-C. hardware platforms
-D. software tools
+软件工程环境(SEE)包括以下哪几项? *@[CD](2)
+A. 客户
+B. 开发人员
+C. 硬件平台
+D. 软件工具
 
-Software project estimation techniques can be broadly classified under which of the following headings? *@[BC](2)
-A. automated processes
-B. decomposition techniques
-C. empirical models
-D. regression models
+软件项目评估技术可以大致分到以下哪一类标题? *@[BC](2)
+A. 自动化过程
+B. 分解技术
+C. 经验模型
+D. 回归模型
 
-Problem-based estimation is based on problem decomposition which focuses on __. *@[AC](2)
-A. information domain values
-B. project schedule
-C. software functions
-D. process activities
+基于问题的评估是基于问题分解的内容，它侧重于 __. *@[AC](2)
+A. 信息域值
+B. 项目时间表
+C. 软件功能
+D. 过程活动
 
-LOC-based estimation techniques require problem decomposition based on __. @[C](1)
-A. information domain values
-B. project schedule
-C. software functions
-D. process activities
+基于代码行(LOC)的评估技术依赖于 __. @[C](1)
+A. 信息域值
+B. 项目时间表
+C. 软件功能
+D. 过程活动
 
-FP-based estimation techniques require problem decomposition based on __. @[A](1)
-A. information domain values
-B. project schedule
-C. software functions
-D. process activities
+基于功能点(FP)的评估技术依赖于 __. @[A](1)
+A. 信息域值
+B. 项目时间表
+C. 软件功能
+D. 过程活动
 
-Process-based estimation techniques require problem decomposition based on __. *@[CD](2)
-A. information domain values
-B. project schedule
-C. software functions
-D. process activities
+基于过程的评估技术依赖于 __. *@[CD](2)
+A. 信息域值
+B. 项目时间表
+C. 软件功能
+D. 过程活动
 
-Empirical estimation models are typically based on __. @[C](1)
-A. expert judgement based on past project experiences
-B. refinement of expected value estimation
-C. regression models derived from historical project data
-D. trial and error determination of the parameters and coefficients
+经验评估模型通常基于 __. @[C](1)
+A. 根据过去项目经验的专家判断
+B. 优化预期的估值
+C. 从历史项目数据获取的回归模型
+D. 参数和系数的试验和误差
 
-COCOMO II is an example of a suite of modern empirical estimation models that require sizing information expressed as any of __. *@[ABC](2)
-A. function points
-B. lines of code
-C. object points
-D. project duration
+COCOMO II 是一套现代经验评估模型的示例，这些模型需要将信息表示为任意 __. *@[ABC](2)
+A. 功能点
+B. 代码行
+C. 对象点
+D. 项目持续时间
 
-In agile software development estimation techniques focus on the time required to complete each __. @[A](1)
-A. increment
-B. scenario
-C. task
-D. use-case
+在敏捷软件开发中，评估技术侧重于完成每个 __. @[A](1)
+A. 增量
+B. 场景
+C. 任务
+D. 用例
 
 
 项目进度安排
 
-Which of the following is not one of the guiding principles of software project scheduling: __. @[B](1)
-A. compartmentalization
-B. market assessment
-C. time allocation
-D. effort validation
+以下哪一项不是软件项目调度的指导原则之一: __. @[B](1)
+A. 划分
+B. 市场评估
+C. 时间分配
+D. 工作量验证
 
-The software equation can be used to show that by extending the project deadline slightly __. @[A](1)
-A. fewer people are required
-B. you are guaranteed to meet the deadline
-C. more lines of code can be produced
-D. fewer bugs can be produced
+通过稍微延长项目期限，软件方程可用于展示 __. @[A](1)
+A. 需要更少的人
+B. 保证遵守最后期限
+C. 可以生成更多代码行
+D. 可以产生更少的错误
 
-The 40-20-40 rule suggests that the least of amount of development effort be spent on __. @[C](1)
-A. estimation and planning
-B. analysis and design
-C. coding
-D. testing
+40-20-40 规则建议，最少的开发工作花在 __. @[C](1)
+A. 评估和计算
+B. 分析和设计
+C. 编码
+D. 测试
 
-A task set is a collection of __. @[A](1)
-A. engineering work tasks, milestones, deliverables
-B. task assignments, cost estimates, metrics
-C. milestones, deliverables, metrics
-D. responsibilities, milestones, documents
+任务集是一组 __. @[A](1)
+A. 工程工作任务、里程碑、可交付成果
+B. 任务分配、成本估算、指标
+C. 里程碑、可交付成果、指标
+D. 责任、里程碑、文件
 
-The task (activity) network is a useful mechanism for __. *@[BC](2)
-A. computing the overall effort estimate
-B. detecting intertask dependencies
-C. determining the critical path
-D. specifying the task set to the customer
+对__而言, 任务(活动)网络是一个有效的机制. *@[BC](2)
+A. 评估总体工作量
+B. 检测任务间依赖关系
+C. 确定关键路径
+D. 将任务集指定给客户
 
-Two tools for computing critical path and project completion times from activity networks are __. *@[AD](2)
+用于计算活动网络的关键路径和项目完成时间的两个工具是 __. *@[AD](2)
 A. CPM
 B. DRE
 C. FP
 D. PERT
 
-The best indicator of progress on a software project is the completion __. @[C](1)
-A. of a defined engineering activity task
-B. of a successful budget review meeting on time
-C. and successful review of a defined software work product
-D. and successful acceptance of project prototype by the customer
+软件项目进展的最佳指标是完成 __. @[C](1)
+A. 定义的工程活动任务
+B. 按时召开成功的预算审核会议
+C. 成功审查已定义的软件工作产品
+D. 客户成功接收项目原型
 
-The purpose of earned value analysis is to __. @[B](1)
-A. determine how to compensate developers based on their productivity
-B. provide a quantitative means of assessing software project progress
-C. provide a qualitative means of assessing software project progress
-D. set the price point for a software product based on development effort
+挣值分析的目的是 __. @[B](1)
+A. 确定如何根据开发人员的工作效率对其进行补偿
+B. 为评估软件项目进度提供定量方法
+C. 为评估软件项目进度提供定性方法
+D. 根据开发工作量为软件产品设置价格点
 
 
 风险管理
 
-Software risk always involves two characteristics __. @[C](1)
-A. fire fighting and crisis management
-B. known and unknown risks
-C. uncertainty and loss
-D. staffing and budget
+软件风险始终涉及两个特征 __. @[C](1)
+A. 灭火和危机管理
+B. 已知和未知风险
+C. 不确定性和损失
+D. 人员配置和预算
 
-Three categories of risks are __. @[B](1)
-A. business risks, personnel risks, budget risks
-B. project risks, technical risks, business risks
-C. planning risks, technical risks, personnel risks
-D. management risks, technical risks, design risks
+三类风险是 __. @[B](1)
+A. 业务风险、人员风险、预算风险
+B. 项目风险、技术风险、业务风险
+C. 计划风险、技术风险、人员风险
+D. 管理风险、技术风险、设计风险
 
-A risk item checklist would contain known and predictable risks from which of these categories? *@[ABCD](2)
-A. product size
-B. development environment
-C. staff size
-D. process definition
+风险项目清单包含哪些类别的已知和可预测的风险? *@[ABCD](2)
+A. 产品规模
+B. 开发环境
+C. 员工人数
+D. 过程定义
 
-Questions that should be asked to assess the overall project risk include:  *@[ABC](2)
-A. Have top managers formally committed to support the project?
-B. Are end-users committed to the project and proposed system being built?
-C. Are requirement fully understood by development team and customers?
-D. Does the proposed budget have time allocated for marketing?
+在评估项目总体风险时应提出哪些问题? *@[ABC](2)
+A. 高层管理人员已经正式承诺支持该项目吗?
+B. 最终用户已经承诺对项目的支持吗?
+C. 开发团队和客户完全理解需求吗?
+D. 拟定的预算是否为市场分配了时间?
 
-Software risk impact assessment should focus on consequences affecting __. @[D](1)
-A. planning, resources, cost, schedule
-B. marketability, cost, personnel
-C. business, technology, process
-D. performance, support, cost, schedule
+软件风险评估应侧重于 __ 影响的后果. @[D](1)
+A. 计划、资源、成本、进度
+B. 市场性、成本、人员
+C. 业务、技术、流程
+D. 性能、支持、成本、进度
 
-Risk projection attempts to rate each risk in two ways __. @[C](1)
-A. likelihood and cost
-B. likelihood and impact
-C. likelihood and consequences
-D. likelihood and exposure
+风险预测尝试以哪两种方式对每种风险进行预测?. @[C](1)
+A. 可能性和成本
+B. 可能性和影响
+C. 可能性和后果
+D. 可能性和暴露
 
-Risk tables are sorted by __. @[B](1)
-A. probability and cost
-B. probability and impact
-C. probability and consequences
-D. probability and exposure
+风险表按什么排序? @[B](1)
+A. 概率和成本
+B. 概率和影响
+C. 概率和后果
+D. 概率和暴露
 
-Which factors affect the probable consequences likely if a risk does occur? *@[BC](2)
-A. risk cost
-B. risk timing
-C. risk scope
-D. risk resources
+哪些因素会影响风险发生时可能的后果? *@[BC](2)
+A. 风险成本
+B. 风险时机
+C. 风险范围
+D. 风险资源
 
-Effective risk management plan needs to address which of these issues? *@[ABC](2)
-A. risk avoidance
-B. risk monitoring
-C. contingency planning
-D. risk probability
+有效的风险管理计划需要解决以下哪些问题? *@[ABC](2)
+A. 风险规避
+B. 风险监测
+C. 应急规划
+D. 风险概率
 
-Hazard analysis focuses on the identification and assessment of potential hazards that can cause __. @[D](1)
-A. project termination
-B. schedule slippage
-C. cost overruns
-D. an entire system to fail
+危害分析侧重于识别和评估可能导致的何种潜在危害? @[D](1)
+A. 项目终止
+B. 计划逾期
+C. 成本超支
+D. 整个系统失败
 
 
 维护与再工程
 
-How much effort is typically expended by a software organization on software maintenance? @[C](1)
-A. 20 percent
-B. 40 percent
-C. 60 percent
-D. 80 percent
+软件组织通常在软件维护方面花费多少精力? @[C](1)
+A. 20%
+B. 40%
+C. 60%
+D. 80%
 
-Which of the following is not an example of a business process?  @[D](1)
-A. designing a new product
-B. hiring an employee
-C. purchasing services
-D. testing software
+以下哪一项不是业务流程的示例?  @[D](1)
+A. 设计新产品
+B. 雇佣员工
+C. 采购服务
+D. 测试软件
 
-Which of the following activities is not part of the software reengineering process model? @[C](1)
-A. forward engineering
-B. inventory analysis
-C. prototyping
-D. reverse engineering
+以下哪项活动不是软件重新设计过程模型的一部分? @[C](1)
+A. 正向工程
+B. 库存分析
+C. 原型制作
+D. 逆向工程
 
-Software reengineering process model includes restructuring activities for which of the following work items? *@[ABC](2)
-A. code
-B. documentation
-C. data
-D. budget
+软件重新设计过程模型包括以下哪些项的重组活动? *@[ABC](2)
+A. 代码
+B. 文档
+C. 数据
+D. 预算
 
-Which of the following is not an issue to consider when reverse engineering? @[C](1)
-A. abstraction level
-B. completeness
-C. connectivity
-D. directionality
+逆向工程不需要考虑以下哪一项问题? @[C](1)
+A. 抽象层
+B. 完整性
+C. 连接性
+D. 方向性
 
-Reverse engineering of data focuses on __. *@[AB](2)
-A. database structures
-B. internal data structures
-C. UI structures
-D. none of the other three options
+逆向工程数据侧重于 __. *@[AB](2)
+A. 数据库结构
+B. 内部数据结构
+C. 用户界面结构
+D. 非以上三项
 
-The first reverse engineering activity involves seeking to understand __. @[B](1)
-A. data
-B. processing
-C. user interfaces
-D. none of the other three options
+逆向工程的第一项活动是寻求了解 __. @[B](1)
+A. 数据
+B. 处理
+C. 用户界面
+D. 非以上三项
 
-Which of these benefits can be achieved when software is restructured? *@[ABC](2)
-A. higher quality programs
-B. reduced maintenance effort
-C. software easier to test
-D. higher profit
+重构软件时的好处有哪些? *@[ABC](2)
+A. 更高质量的程序
+B. 减少维护工作量
+C. 软件更易于测试
+D. 更高的利润
 
-Which of these is not an example of data restructuring? @[A](1)
-A. data analysis
-B. data name rationalization
-C. data record standardization
-D. none of the other three options
+以下哪一项不是数据重组? @[A](1)
+A. 数据分析
+B. 数据名称合理化
+C. 数据记录标准化
+D. 非以上三项
 
 
 软件过程改进
